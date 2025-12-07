@@ -1,0 +1,611 @@
+Text,Latitude,Longitude,Status,Image
+Kozhikode,11.2450558,75.7754716,Exact Match,8819000_h2_w6.png
+Colombo,6.9388614,79.8542005,Exact Match,8819000_h2_w6.png
+Dallas,32.7762719,-96.7968559,Exact Match,8826002_h4_w5.png
+Loudi,27.6995215,111.9890658,Fixed Typo (Loud -> Loudi),8826002_h4_w5.png
+Waco,31.5491899,-97.1474628,Exact Match,8826002_h4_w5.png
+Austin,30.2711286,-97.7436995,Exact Match,8826002_h4_w5.png
+Brits,-25.6297222,27.7841667,Fixed Typo (bits -> Brits),8826002_h4_w5.png
+Houston,29.7589382,-95.3676974,Exact Match,8826002_h4_w5.png
+San Antonio,29.4246002,-98.4951405,Exact Match,8826002_h4_w5.png
+Most,50.5032737,13.636112,Exact Match,8826002_h4_w5.png
+Colorado,38.7251776,-105.607716,Exact Match,8826002_h4_w5.png
+Areia,-6.9680243,-35.6994783,Fixed Typo (AREA -> Areia),8831000_h3_w4.png
+Sterling,41.788253,-89.6953656,Fixed Typo ('STERLING -> Sterling),8831000_h3_w4.png
+Trappes,48.7760957,1.9988356,Fixed Typo (TRAPPERS -> Trappes),8831000_h3_w4.png
+Rivera,45.1147797,7.4137652,Fixed Typo (RIVER -> Rivera),8831000_h3_w4.png
+Denver,39.7392364,-104.984862,Exact Match,8831000_h3_w4.png
+Santa Isabel,-23.3194222,-46.2271903,Fixed Typo (SAN ISABEL -> Santa Isabel),8831000_h3_w4.png
+Great Bend,38.3625063,-98.7804087,Exact Match,8831000_h3_w4.png
+Albuquerque,35.0841034,-106.650985,Exact Match,8831000_h3_w4.png
+Casper,42.8501191,-106.325138,Exact Match,8831000_h3_w4.png
+Saratoga,37.2638324,-122.0230146,Exact Match,8831000_h3_w4.png
+Cheyenne,41.139981,-104.820246,Exact Match,8831000_h3_w4.png
+Roosevelt,48.8034101,-95.0982082,Exact Match,8831000_h3_w4.png
+Rivera,45.1147797,7.4137652,Fixed Typo (RIVER -> Rivera),8831000_h3_w4.png
+Granby,41.9538298,-72.789313,Exact Match,8831000_h3_w4.png
+Tigre,-3.05555545,-75.21183906129795,Fixed Typo (IGRE -> Tigre),8831000_h3_w4.png
+Vista,33.2021284,-117.2424787,Exact Match,8831000_h3_w4.png
+Cheyenne,41.139981,-104.820246,Exact Match,8831000_h3_w4.png
+Chamba,13.074572,12.602644554104977,Fixed Typo (CHAMA -> Chamba),8831000_h3_w4.png
+Carson,33.8322043,-118.2517547,Exact Match,8831000_h3_w4.png
+Anta,-9.3576676,-77.598543,Fixed Typo (SANTA -> Anta),8831000_h3_w4.png
+Anta,-9.3576676,-77.598543,Fixed Typo (SANTA -> Anta),8831000_h3_w4.png
+Dessau,51.8309956,12.2430723,Exact Match,8880003_h5_w5.png
+Naumburg,51.1525648,11.8099186,Exact Match,8880003_h5_w5.png
+Erfurt,50.9777974,11.0287364,Exact Match,8880003_h5_w5.png
+Jena,31.6832271,-92.1337448,Exact Match,8880003_h5_w5.png
+Altena,51.2990263,7.6734841,Fixed Typo (ALTEN -> Altena),8880003_h5_w5.png
+Halle,51.4824354,11.9712985,Exact Match,8880003_h5_w5.png
+Merseburg,51.3564413,11.996148,Fixed Typo (MERSBBURG -> Merseburg),8880003_h5_w5.png
+Leipzig,51.3406321,12.3747329,Fixed Typo (LEIPZIG: -> Leipzig),8880003_h5_w5.png
+Frisco,37.7792588,-122.4193286,Exact Match,8883002_h11_w14.png
+Chato,34.6308937,-106.3489078,Fixed Typo (Chatom -> Chato),8883002_h11_w14.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),8883002_h11_w14.png
+Geneva,46.2017559,6.1466014,Exact Match,8883002_h11_w14.png
+Banbridge,54.3514168,-6.2714623,Fixed Typo (Bainbridge -> Banbridge),8883002_h11_w14.png
+Quincy,42.2509914,-71.0037374,Exact Match,8883002_h11_w14.png
+Mobile,30.6913462,-88.0437509,Exact Match,8883002_h11_w14.png
+Milton,42.2501425,-71.065573,Exact Match,8883002_h11_w14.png
+Springs,41.0162112,-72.1592444,Fixed Typo (Springs! -> Springs),8883002_h11_w14.png
+Tallahassee,30.4380832,-84.2809332,Fixed Typo (Tallahass -> Tallahassee),8883002_h11_w14.png
+Daphne,30.6035255,-87.9036047,Exact Match,8883002_h11_w14.png
+Fairhope,30.5231647,-87.9028458,Exact Match,8883002_h11_w14.png
+Moss,32.997821,-115.4077613,Exact Match,8883002_h11_w14.png
+Foley,45.663512,-93.9137277,Exact Match,8883002_h11_w14.png
+Matui,1.0383448,127.5392028,Fixed Typo (MAUI -> Matui),8883002_h11_w14.png
+Pala,33.3653102,-117.076696,Exact Match,8883002_h11_w14.png
+Handa,34.8938136,136.9369523,Fixed Typo (Hana -> Handa),8883002_h11_w14.png
+Kahului,20.8894101,-156.4727118,Exact Match,8883002_h11_w14.png
+Dothan,31.2237285,-85.3934375,Exact Match,8883002_h11_w14.png
+Hartford,41.764582,-72.6908547,Exact Match,8883002_h11_w14.png
+Lakeville,44.650051,-93.2432791,Fixed Typo (Leakesville -> Lakeville),8883002_h11_w14.png
+Valparaiso,41.4672552,-87.0604487,Exact Match,8883002_h11_w14.png
+Pensacola,30.421309,-87.2169149,Exact Match,8883002_h11_w14.png
+Springfield,39.7990175,-89.6439575,Exact Match,8883002_h11_w14.png
+Rosas,2.2621018,-76.7392875,Fixed Typo (Rosa -> Rosas),8883002_h11_w14.png
+Pascagoula,30.3646795,-88.5585995,Fixed Typo (ascagoula -> Pascagoula),8883002_h11_w14.png
+Alton,38.8908583,-90.1843091,Fixed Typo (Walton -> Alton),8883002_h11_w14.png
+Rosas,2.2621018,-76.7392875,Fixed Typo (Rosa -> Rosas),8883002_h11_w14.png
+Anta,-9.3576676,-77.598543,Fixed Typo (Santa -> Anta),8883002_h11_w14.png
+Wewak,-3.5542197,143.6270904,Fixed Typo (Wewa -> Wewak),8883002_h11_w14.png
+Mobile,30.6913462,-88.0437509,Exact Match,8883002_h11_w14.png
+Anta,-9.3576676,-77.598543,Fixed Typo (Santa -> Anta),8883002_h11_w14.png
+Forst,51.7438586,14.6455395,Fixed Typo (Fort -> Forst),8883002_h11_w14.png
+Belas,38.7759227,-9.2639227,Fixed Typo (Blas -> Belas),8883002_h11_w14.png
+George,43.3436751,-96.0022965,Exact Match,8883002_h11_w14.png
+Chandler,33.3062031,-111.841185,Fixed Typo (Chandeleur -> Chandler),8883002_h11_w14.png
+Venice,45.4371908,12.3345898,Exact Match,8883002_h11_w14.png
+Gardena,33.8815702,-118.2918113,Fixed Typo (Garden -> Gardena),8883002_h11_w14.png
+Porto,41.1502195,-8.6103497,Fixed Typo (Port -> Porto),8883002_h11_w14.png
+Burwood,35.8125669,-86.9833367,Fixed Typo (Burrwood -> Burwood),8883002_h11_w14.png
+Meads,38.4125817,-82.7090513,Fixed Typo (Eads -> Meads),8883002_h11_w14.png
+Bay,35.7428864,-90.5625134,Exact Match,8883002_h11_w14.png
+Kaneohe,21.418555,-157.804184,Exact Match,8883002_h11_w14.png
+Hala,51.4824354,11.9712985,Exact Match,8883002_h11_w14.png
+Kailua,19.641941,-155.996933,Exact Match,8883002_h11_w14.png
+Honolulu,21.304547,-157.855676,Exact Match,8883002_h11_w14.png
+Pearl,32.2735792,-90.127881,Exact Match,8883002_h11_w14.png
+Kazan,55.7823547,49.1242266,Exact Match,8915000_h2_w3.png
+Saipan,15.1909825,145.746743003024,Exact Match,8915000_h2_w3.png
+Apan,54.9738474,-1.6131572,Fixed Typo (Japan -> Apan),8915000_h2_w3.png
+Muroran,42.3152461,140.9740731,Exact Match,8915000_h2_w3.png
+Vladivostok,43.1150678,131.8855768,Fixed Typo (VLAdiVOSTOC -> Vladivostok),8915000_h2_w3.png
+Bologna,44.4938203,11.3426327,Fixed Typo (BOLLOGNA -> Bologna),8926002_h3_w2.png
+Lerik,38.7752945,48.418155,Fixed Typo (Lerk -> Lerik),9016003_h4_w4.png
+Aalen,48.8375607,10.0929593,Fixed Typo (Aale -> Aalen),9016003_h4_w4.png
+Lyon,34.2178865,-90.5420429,Fixed Typo (Lyons -> Lyon),9034002_h10_w16.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),9034002_h10_w16.png
+Douglas,31.5088073,-82.8498654,Exact Match,9034002_h10_w16.png
+Tifton,31.4549719,-83.5108284,Exact Match,9034002_h10_w16.png
+St. Marys,41.3081707,-93.7318728,Fixed Typo (St.Marys -> St. Marys),9034002_h10_w16.png
+Jasper,30.9201995,-93.9965759,Exact Match,9034002_h10_w16.png
+Orange,33.7872568,-117.850308,Exact Match,9034002_h10_w16.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),9034002_h10_w16.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),9034002_h10_w16.png
+Winter Park,28.5977707,-81.3510264,Fixed Typo (Winter Par) -> Winter Park),9034002_h10_w16.png
+Orlando,28.5421109,-81.3790304,Exact Match,9034002_h10_w16.png
+Rivera,45.1147797,7.4137652,Fixed Typo (River -> Rivera),9034002_h10_w16.png
+Gare,42.3724798,21.6268015,Exact Match,9034002_h10_w16.png
+Cocoa,28.3556635,-80.7325345,Exact Match,9034002_h10_w16.png
+Porto,41.1502195,-8.6103497,Fixed Typo (Port -> Porto),9034002_h10_w16.png
+Dublin,53.3493795,-6.2605593,Exact Match,9034002_h10_w16.png
+Garden City,37.9716898,-100.8726618,Exact Match,9034002_h10_w16.png
+Cochrane,44.2274643,-91.835157,Fixed Typo (Cochran -> Cochrane),9034002_h10_w16.png
+Savannah,32.0790074,-81.0921335,Exact Match,9034002_h10_w16.png
+Savannah,32.0790074,-81.0921335,Exact Match,9034002_h10_w16.png
+Forest,32.3645888,-89.4742348,Exact Match,9034002_h10_w16.png
+Windsor,41.8525984,-72.6437022,Exact Match,9034002_h10_w16.png
+Hinesville,31.8477347,-81.5960705,Exact Match,9034002_h10_w16.png
+Glenville,43.572754,-93.2814262,Fixed Typo (Glennvilles -> Glenville),9034002_h10_w16.png
+Helena,46.5927425,-112.036277,Fixed Typo (Helenae -> Helena),9034002_h10_w16.png
+Kaltan,53.5195866,87.27957,Fixed Typo (Altan -> Kaltan),9034002_h10_w16.png
+Tahla,34.050634,-4.4224,Fixed Typo (taha -> Tahla),9034002_h10_w16.png
+Ashburn,39.0437192,-77.4874899,Exact Match,9034002_h10_w16.png
+Alma,31.5393701,-82.4623557,Exact Match,9034002_h10_w16.png
+Fredericia,55.565268,9.7562169,Fixed Typo ('FREDERICA -> Fredericia),9034002_h10_w16.png
+Forst,51.7438586,14.6455395,Fixed Typo (FORT -> Forst),9034002_h10_w16.png
+Brunswick,31.1499528,-81.4914894,Fixed Typo (Brunswic -> Brunswick),9034002_h10_w16.png
+Nashville,36.1622767,-86.7742984,Exact Match,9034002_h10_w16.png
+Kingsland,30.7999563,-81.6898261,Fixed Typo (ingsland -> Kingsland),9034002_h10_w16.png
+Cumberland,39.6526498,-78.762383,Exact Match,9034002_h10_w16.png
+Lakeland,28.0394654,-81.9498042,Fixed Typo (akeland -> Lakeland),9034002_h10_w16.png
+Aosta,45.7370885,7.3196649,Fixed Typo (osta -> Aosta),9034002_h10_w16.png
+Jacksonville,30.3321838,-81.655651,Exact Match,9034002_h10_w16.png
+Boston,42.3554334,-71.060511,Fixed Typo (Boston: -> Boston),9034002_h10_w16.png
+Jacksonville,30.3321838,-81.655651,Exact Match,9034002_h10_w16.png
+Baldwin,40.3381252,-79.9789405,Fixed Typo (Baldwina -> Baldwin),9034002_h10_w16.png
+Madison,43.074761,-89.3837613,Fixed Typo (Madiso -> Madison),9034002_h10_w16.png
+Mon,17.0832546,97.3337305,Exact Match,9034002_h10_w16.png
+Greenville,34.851354,-82.3984882,Fixed Typo (eenville -> Greenville),9034002_h10_w16.png
+Arcos,42.2652637,-3.7555708,Fixed Typo (MARCOS -> Arcos),9034002_h10_w16.png
+Springs,41.0162112,-72.1592444,Exact Match,9034002_h10_w16.png
+San,11.8444164,-3.2748386,Exact Match,9034002_h10_w16.png
+Clive,41.6096559,-93.7754644,Fixed Typo (Live -> Clive),9034002_h10_w16.png
+Green,39.427776,-97.001961,Exact Match,9034002_h10_w16.png
+Mon,17.0832546,97.3337305,Exact Match,9034002_h10_w16.png
+Marks,34.2565001,-90.2720375,Fixed Typo (arks -> Marks),9034002_h10_w16.png
+Matanzas,23.0469236,-81.5783032,Exact Match,9034002_h10_w16.png
+Forst,51.7438586,14.6455395,Fixed Typo (FORT -> Forst),9034002_h10_w16.png
+Alaca,40.1690118,34.8414772,Fixed Typo (Alac  -> Alaca),9034002_h10_w16.png
+Gainesville,29.6519684,-82.3249846,Exact Match,9034002_h10_w16.png
+Ormond Beach,29.2854132,-81.0557921,Exact Match,9034002_h10_w16.png
+Dayton,39.7589478,-84.1916069,Fixed Typo (Daytona -> Dayton),9034002_h10_w16.png
+Smyrna,39.2998339,-75.6046494,Exact Match,9034002_h10_w16.png
+Aland,60.2166218,19.9438638,Fixed Typo (Land -> Aland),9034002_h10_w16.png
+Leesburg,39.1154506,-77.5645607,Exact Match,9034002_h10_w16.png
+Eustis,28.8527675,-81.6853534,Exact Match,9034002_h10_w16.png
+Sanford,35.4798757,-79.1802994,Exact Match,9034002_h10_w16.png
+Titusville,28.6126236,-80.8079545,Exact Match,9034002_h10_w16.png
+Crystal,45.031823,-93.3606072,Exact Match,9034002_h10_w16.png
+Inverness,42.1180815,-88.0961865,Fixed Typo (Inverness_ -> Inverness),9034002_h10_w16.png
+Pace,33.7915006,-90.8570461,Fixed Typo (SPACE -> Pace),9034002_h10_w16.png
+Apopka,28.6732806,-81.5116471,Fixed Typo (Apopka; -> Apopka),9034002_h10_w16.png
+Tala,65.2632484,-166.3640144,Fixed Typo (Tsala -> Tala),9034002_h10_w16.png
+Banan,29.4043601,106.5368478,Fixed Typo (Banana -> Banan),9034002_h10_w16.png
+Lede,50.9662645,3.9775505,Fixed Typo (ledge -> Lede),9034002_h10_w16.png
+Kissimmee,28.2918995,-81.4075838,Fixed Typo (issimmee -> Kissimmee),9034002_h10_w16.png
+Melbourne,28.0785034,-80.6077908,Exact Match,9034002_h10_w16.png
+Atar,20.5181943,-13.0543928,Exact Match,9035000_h5_w12.png
+Adrar,27.873203,-0.2876021,Exact Match,9035000_h5_w12.png
+Kidal,19.802089,0.725312457,Exact Match,9035000_h5_w12.png
+Nouakchott,18.0792379,-15.9780071,Fixed Typo (Nouakehott -> Nouakchott),9035000_h5_w12.png
+Bamban,15.2733238,120.5672692,Fixed Typo (Bamba -> Bamban),9035000_h5_w12.png
+Kita,35.7528821,139.7338331,Fixed Typo ( Kifta -> Kita),9035000_h5_w12.png
+Gao,17.00244,-0.099115448,Exact Match,9035000_h5_w12.png
+Verden,35.0833963,-98.0878254,Fixed Typo (Verde -> Verden),9035000_h5_w12.png
+Kayes,13.8001844,-10.224554815,Exact Match,9035000_h5_w12.png
+Mopti,14.514489,-3.64645806,Exact Match,9035000_h5_w12.png
+Dori,14.0327651,-0.0348286,Exact Match,9035000_h5_w12.png
+Niamey,13.524834,2.109823,Exact Match,9035000_h5_w12.png
+Bathurst,13.45535,-16.575646,Exact Match,9035000_h5_w12.png
+Bamako,12.649319,-8.000337,Exact Match,9035000_h5_w12.png
+Ouagadougou,12.3681873,-1.5270944,Exact Match,9035000_h5_w12.png
+Bissau,11.861324,-15.583055,Exact Match,9035000_h5_w12.png
+Koudougou,12.2514911,-2.3652267,Exact Match,9035000_h5_w12.png
+Kindia,10.0368,-12.8260215,Exact Match,9035000_h5_w12.png
+Siguiri,11.4195265,-9.1751513,Exact Match,9035000_h5_w12.png
+Conakry,9.5170602,-13.6998434,Exact Match,9035000_h5_w12.png
+Serra,39.6851966,-0.4281287,Fixed Typo (SIerRA -> Serra),9035000_h5_w12.png
+Korhogo,9.4580698,-5.6316293,Exact Match,9035000_h5_w12.png
+Tamale,9.4051992,-0.8423986,Exact Match,9035000_h5_w12.png
+Freetown,42.5230823,-76.0182958,Exact Match,9035000_h5_w12.png
+Serra,39.6851966,-0.4281287,Fixed Typo (SIERRA -> Serra),9035000_h5_w12.png
+Kumasi,6.6985605,-1.6233086,Exact Match,9035000_h5_w12.png
+Iba,15.3264614,119.9801043,Exact Match,9035000_h5_w12.png
+Serra,39.6851966,-0.4281287,Fixed Typo (SIERRA -> Serra),9035000_h5_w12.png
+Monrovia,34.1483499,-118.0014517,Exact Match,9035000_h5_w12.png
+Liberia,5.7499721,-9.3658524,Exact Match,9035000_h5_w12.png
+Abidjan,5.4091179,-4.0422099,"Fixed Typo (Abidjan,  -> Abidjan)",9035000_h5_w12.png
+Haren,52.7905619,7.2400267,Fixed Typo (Hare -> Haren),9035000_h5_w12.png
+Basi,21.7773562,79.71891013608553,Fixed Typo (BASIN -> Basi),9035000_h5_w12.png
+Sekondi,4.927456,-1.7490216,Exact Match,9035000_h5_w12.png
+Palmas,18.441531050000002,-66.14365187209029,Exact Match,9035000_h5_w12.png
+Basi,21.7773562,79.71891013608553,Fixed Typo (BASIN -> Basi),9035000_h5_w12.png
+Basi,21.7773562,79.71891013608553,Fixed Typo (BASIN -> Basi),9035000_h5_w12.png
+Gero,35.8064271,137.2433187,Exact Match,9053003_h6_w6.png
+Tak ,36.5940732,69.7938996,Exact Match,9053003_h6_w6.png
+Luton,42.339714,-96.2264131,Fixed Typo (PLUTON -> Luton),9053003_h6_w6.png
+Oakland,37.8044557,-122.271356,Fixed Typo (OAKLAN -> Oakland),9094002_h5_w10.png
+Arris,42.8875912,0.3983792,Fixed Typo (RRIS -> Arris),9094002_h5_w10.png
+Howard,37.4703117,-96.2636066,Fixed Typo (HOWAARD -> Howard),9094002_h5_w10.png
+Lakeside ,42.6214633,-95.1744757,Exact Match,9094002_h5_w10.png
+Sanford,35.4798757,-79.1802994,Fixed Typo (STANFORD -> Sanford),9094002_h5_w10.png
+Marina,36.6844029,-121.802173,Exact Match,9094002_h5_w10.png
+Marina,36.6844029,-121.802173,Exact Match,9094002_h5_w10.png
+Alameda,37.7652076,-122.241635,Exact Match,9094002_h5_w10.png
+Alameda,37.7652076,-122.241635,Exact Match,9094002_h5_w10.png
+Montgomery,32.37742,-86.3091683,Fixed Typo (MoNtaoMERY -> Montgomery),9094002_h5_w10.png
+Marina,36.6844029,-121.802173,Exact Match,9094002_h5_w10.png
+Warud,21.473109,78.2728518,Fixed Typo (WARD -> Warud),9094002_h5_w10.png
+Alameda,37.7652076,-122.241635,Exact Match,9094002_h5_w10.png
+Diest,50.9844318,5.0504341,Fixed Typo (Dist -> Diest),9094002_h5_w10.png
+Meda,45.6625046,9.1567532,Exact Match,9094002_h5_w10.png
+Oakland,37.8044557,-122.271356,Exact Match,9094002_h5_w10.png
+Arris,42.8875912,0.3983792,Fixed Typo (#ARRIS -> Arris),9096002_h4_w8.png
+Orlando,28.5421109,-81.3790304,Exact Match,9096002_h4_w8.png
+Coity,51.5212979,-3.5539979,Fixed Typo (city -> Coity),9096002_h4_w8.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),9096002_h4_w8.png
+Downtown,34.047996,-118.2521002,Exact Match,9096002_h4_w8.png
+Buea,4.1567895,9.2315915,Fixed Typo (BUENA -> Buea),9096002_h4_w8.png
+Vista,33.2021284,-117.2424787,Fixed Typo (~VISTA -> Vista),9096002_h4_w8.png
+Davenport,41.5235808,-90.5770967,Exact Match,9096002_h4_w8.png
+Orlando,28.5421109,-81.3790304,Exact Match,9096002_h4_w8.png
+Coity,51.5212979,-3.5539979,Fixed Typo (city -> Coity),9096002_h4_w8.png
+Kissimmee,28.2918995,-81.4075838,Exact Match,9096002_h4_w8.png
+Asha,54.9908896,57.2780531,Fixed Typo (WASHA -> Asha),9096002_h4_w8.png
+Florida,27.7567667,-81.4639835,Exact Match,9096002_h4_w8.png
+Cypress,33.8248235,-118.0399368,Exact Match,9096002_h4_w8.png
+Sebastian,26.3428491,-97.790273,Exact Match,9096002_h4_w8.png
+Harar,9.3118397,42.1284445,Fixed Typo (HarmAR -> Harar),9103002_h2_w6.png
+Holiday,28.1879273,-82.740074,Exact Match,9103002_h2_w6.png
+Verona,43.8058478,-82.8810508,Exact Match,9103002_h2_w6.png
+Highland,39.1802516,-83.6304344,Exact Match,9103002_h2_w6.png
+Highland,39.1802516,-83.6304344,Exact Match,9103002_h2_w6.png
+Morningside,38.8279569,-76.8878103,Fixed Typo (NorNingside -> Morningside),9103002_h2_w6.png
+Liberty,39.246479,-94.419079,Exact Match,9103002_h2_w6.png
+Bloomfield,40.7511569,-92.4145672,Exact Match,9103002_h2_w6.png
+Aiken,33.5616173,-81.7224579,Fixed Typo (AKEN -> Aiken),9103002_h2_w6.png
+Hille,52.3360492,8.7452571,Fixed Typo (Hill -> Hille),9103002_h2_w6.png
+Holiday,28.1879273,-82.740074,Exact Match,9103002_h2_w6.png
+Liberty,39.246479,-94.419079,Exact Match,9103002_h2_w6.png
+Hille,52.3360492,8.7452571,Fixed Typo (HiLl -> Hille),9103002_h2_w6.png
+Bay,35.7428864,-90.5625134,Exact Match,9105002_h2_w6.png
+Natal,36.9868073,-79.2672444,Fixed Typo (NATL -> Natal),9105002_h2_w6.png
+Fargo,46.877229,-96.789821,Exact Match,9105002_h2_w6.png
+Duluth,46.7838287,-92.1052679,Exact Match,9105002_h2_w6.png
+Natal,36.9868073,-79.2672444,Fixed Typo (NATL -> Natal),9105002_h2_w6.png
+Xindian,24.9673935,121.5419418,Fixed Typo (INDIAN -> Xindian),9105002_h2_w6.png
+Bismarck,46.808327,-100.783739,Exact Match,9105002_h2_w6.png
+Sirte,31.2059625,16.5836206,Fixed Typo (SITE -> Sirte),9105002_h2_w6.png
+Minneapolis,44.9772995,-93.2654692,Exact Match,9105002_h2_w6.png
+Rivera,45.1147797,7.4137652,Fixed Typo (RIVER -> Rivera),9105002_h2_w6.png
+Brookings,44.311461,-96.79844,Exact Match,9105002_h2_w6.png
+Areia,-6.9680243,-35.6994783,Fixed Typo (AREA -> Areia),9105002_h2_w6.png
+Mankato,44.1658533,-94.0028013,Exact Match,9105002_h2_w6.png
+Rochester,43.157285,-77.615214,Exact Match,9105002_h2_w6.png
+Natal,36.9868073,-79.2672444,Fixed Typo (NATL -> Natal),9105002_h2_w6.png
+Mon,17.0832546,97.3337305,Exact Match,9105002_h2_w6.png
+Waterloo,42.498275,-92.3328743,Fixed Typo (WATERLOOE -> Waterloo),9105002_h2_w6.png
+Ames,42.0267567,-93.6170448,Exact Match,9105002_h2_w6.png
+Rivera,45.1147797,7.4137652,Fixed Typo (RiveR -> Rivera),9105002_h2_w6.png
+Omaha,41.2587459,-95.9383758,Exact Match,9105002_h2_w6.png
+Sirte,31.2059625,16.5836206,Fixed Typo (Site -> Sirte),9105002_h2_w6.png
+Coity,51.5212979,-3.5539979,Fixed Typo (city -> Coity),9105002_h2_w6.png
+Davenport,41.5235808,-90.5770967,Exact Match,9105002_h2_w6.png
+Des Moines,41.5868654,-93.6249494,Exact Match,9105002_h2_w6.png
+Waterville,44.5505773,-69.6303174,Exact Match,9156000_h13_w4.png
+Grove,42.4761486,-77.9161549,Fixed Typo (Gove -> Grove),9156000_h13_w4.png
+Wayne,41.6264414,-75.3045103,Fixed Typo (wayney -> Wayne),9156000_h13_w4.png
+Hazelwood,38.7761446,-90.3715909,Exact Match,9156000_h13_w4.png
+Coity,51.5212979,-3.5539979,Fixed Typo (CITY -> Coity),9156000_h13_w4.png
+Hillsboro,45.5228939,-122.989827,Fixed Typo (Dillsboro -> Hillsboro),9156000_h13_w4.png
+Saint George,38.53672,-90.3148334,Fixed Typo (SAINTGEORGE -> Saint George),9173000_h23_w3.png
+Staten Island,40.5834557,-74.1496048,Fixed Typo (Staten Island_ -> Staten Island),9173000_h23_w3.png
+Hamilton,39.3995067,-84.5613428,Fixed Typo (Hamilton) -> Hamilton),9173000_h23_w3.png
+Dyker Heights,40.6204766,-74.0117343,Fixed Typo ((Dyker Heights) -> Dyker Heights),9173000_h23_w3.png
+Wadsworth,41.0256101,-81.7298519,Fixed Typo (Wadsworth) -> Wadsworth),9173000_h23_w3.png
+Bay,35.7428864,-90.5625134,Exact Match,9173000_h23_w3.png
+Eau Claire,44.811349,-91.4984941,Exact Match,9191003_h7_w5.png
+Hilliard,30.691068,-81.9173334,Fixed Typo (Hilliards -> Hilliard),9191003_h7_w5.png
+Washington ,38.8950368,-77.0365427,Exact Match,9191003_h7_w5.png
+Buin,-33.7319741,-70.7419619,Fixed Typo (Bruin -> Buin),9191003_h7_w5.png
+Petrolina,-9.3817334,-40.4968875,Fixed Typo (Petrolia -> Petrolina),9191003_h7_w5.png
+Saint Charles,38.783855,-90.481677,Exact Match,9191003_h7_w5.png
+Kearns,40.6528603,-112.004618,Fixed Typo (Karns -> Kearns),9191003_h7_w5.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),9191003_h7_w5.png
+Sligo,41.1081472,-79.491149,Exact Match,9191003_h7_w5.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),9191003_h7_w5.png
+Rivera,45.1147797,7.4137652,Fixed Typo (River -> Rivera),9191003_h7_w5.png
+Central,7.3819490000000005,80.72342798602898,Exact Match,9255000_h10_w6.png
+Rivera,45.1147797,7.4137652,Fixed Typo (River -> Rivera),9255000_h10_w6.png
+Rivne,50.6196175,26.2513165,Fixed Typo (Rive  -> Rivne),9255000_h10_w6.png
+Rivera,45.1147797,7.4137652,Fixed Typo (River -> Rivera),9255000_h10_w6.png
+Belgrade,44.8178131,20.4568974,Exact Match,9260000_h14_w4.png
+Willmar,45.1219492,-95.0435373,Exact Match,9260000_h14_w4.png
+Shakopee,44.7980186,-93.5268986,Exact Match,9260000_h14_w4.png
+Xindian,24.9673935,121.5419418,Fixed Typo (Indian -> Xindian),9267000_h10_w5.png
+Huntsville,34.729847,-86.5859011,Exact Match,9267000_h10_w5.png
+Lewiston,46.4195913,-117.0216144,Fixed Typo (Lewistown -> Lewiston),9267000_h10_w5.png
+Green Valley,34.6163079,-118.4034763,Fixed Typo (Green Valle) -> Green Valley),9309000_h8_w11.png
+Paks,46.6229468,18.8589364,Fixed Typo (Peaks -> Paks),9309000_h8_w11.png
+Bear,39.6292788,-75.6582628,Exact Match,9309000_h8_w11.png
+Runing,33.010252,114.3507823,Fixed Typo (Running -> Runing),9309000_h8_w11.png
+Seven Oaks,30.8521374,-94.8671545,Exact Match,9309000_h8_w11.png
+Springs,41.0162112,-72.1592444,Exact Match,9309000_h8_w11.png
+Bear,39.6292788,-75.6582628,Exact Match,9309000_h8_w11.png
+San,11.8444164,-3.2748386,Exact Match,9309000_h8_w11.png
+Morong,14.5151374,121.2380858,Fixed Typo (Morongo -> Morong),9309000_h8_w11.png
+Baise,23.9053605,106.6148824,Fixed Typo (Base -> Baise),9309000_h8_w11.png
+Menton,43.7753495,7.5029213,Fixed Typo (Mentone -> Menton),9309000_h8_w11.png
+Redlands,34.0550328,-117.1827445,Exact Match,9309000_h8_w11.png
+Springs,41.0162112,-72.1592444,Exact Match,9309000_h8_w11.png
+Banning,33.9255685,-116.875289,Exact Match,9309000_h8_w11.png
+Palm Springs,33.8246269,-116.540303,Exact Match,9309000_h8_w11.png
+Beaumont,30.0829344,-94.0984277,Exact Match,9309000_h8_w11.png
+Palm Springs,33.8246269,-116.540303,Fixed Typo (Palm_Springs -> Palm Springs),9309000_h8_w11.png
+Palm Springs,33.8246269,-116.540303,Fixed Typo (Palm Spring -> Palm Springs),9309000_h8_w11.png
+Perris,33.7818729,-117.2298477,Exact Match,9309000_h8_w11.png
+San Jacinto,33.7839664,-116.9589086,Exact Match,9309000_h8_w11.png
+Hemet,33.7475203,-116.9719684,Exact Match,9309000_h8_w11.png
+Winchester,39.1852184,-78.1652404,Exact Match,9309000_h8_w11.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),9309000_h8_w11.png
+Rivas,45.5858,4.24753,Fixed Typo (Riva -> Rivas),9309000_h8_w11.png
+Duncan,34.5023029,-97.9578129,Fixed Typo (Duncans -> Duncan),9361000_h5_w12.png
+Rivera,45.1147797,7.4137652,Fixed Typo (River -> Rivera),9361000_h5_w12.png
+Madison,43.074761,-89.3837613,Exact Match,9361000_h5_w12.png
+Florida,27.7567667,-81.4639835,Exact Match,9361000_h5_w12.png
+Paris,48.8534951,2.3483915,Exact Match,9361000_h5_w12.png
+Evansville,37.970495,-87.5715641,Exact Match,9361000_h5_w12.png
+Perry,32.4586695,-83.7319658,Exact Match,9361000_h5_w12.png
+Centralia,38.5250491,-89.1334037,Fixed Typo (Centraliat -> Centralia),9361000_h5_w12.png
+Hille,52.3360492,8.7452571,Fixed Typo (Hill -> Hille),9361000_h5_w12.png
+Mexico,23.6585116,-102.0077097,Fixed Typo (MEXICOr -> Mexico),9361000_h5_w12.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),9361000_h5_w12.png
+Salt,41.9741672,2.7949886,Exact Match,9361000_h5_w12.png
+Along,28.1698002,94.79854,Fixed Typo (Long -> Along),9361000_h5_w12.png
+Thomson,33.4663248,-82.5026089,Fixed Typo (Thompson -> Thomson),9361000_h5_w12.png
+Chicago,41.8755616,-87.6244212,Exact Match,9361000_h5_w12.png
+Benton,34.5645372,-92.586828,Exact Match,9361000_h5_w12.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),9361000_h5_w12.png
+Pittsburgh,40.4416941,-79.9900861,Exact Match,9526003_h5_w11.png
+Philadelphia,39.9527237,-75.1635262,Fixed Typo (Philadelphiac -> Philadelphia),9526003_h5_w11.png
+Wilmington,39.7459468,-75.546589,Exact Match,9526003_h5_w11.png
+Baltimore,39.2908816,-76.610759,Exact Match,9526003_h5_w11.png
+Annapolis,38.9786401,-76.492786,Fixed Typo (SANNAPOLIS -> Annapolis),9526003_h5_w11.png
+Vernon,34.007135,-118.22525,Exact Match,9526003_h5_w11.png
+Springs,41.0162112,-72.1592444,Exact Match,9526003_h5_w11.png
+Springs,41.0162112,-72.1592444,Fixed Typo (SPringsv -> Springs),9526003_h5_w11.png
+Raleigh,35.7803977,-78.6390989,Exact Match,9526003_h5_w11.png
+Baitu,28.2080929,115.9847595,Fixed Typo (bitu -> Baitu),9526003_h5_w11.png
+Wakefield,42.506484,-71.0728306,Exact Match,9526003_h5_w11.png
+Stratford,36.3361403,-102.072119,Fixed Typo (StrATFORDO -> Stratford),9526003_h5_w11.png
+Shenandoah,40.7655468,-95.3723535,Exact Match,9526003_h5_w11.png
+Potomac,39.017936,-77.2094542,Exact Match,9526003_h5_w11.png
+Richmond,37.5385087,-77.43428,Exact Match,9526003_h5_w11.png
+Jamestown,42.0965167,-79.2380322,Fixed Typo (QJAMESTOWN -> Jamestown),9526003_h5_w11.png
+Sulphur,30.2365943,-93.3773783,Exact Match,9530001_h5_w11.png
+Lexington,38.0464066,-84.4970393,Fixed Typo (Lexigton -> Lexington),9530001_h5_w11.png
+Spring,30.0795707,-95.4187924,Fixed Typo (Sprig -> Spring),9530001_h5_w11.png
+Rizal,14.65,121.25,Fixed Typo (RIAL -> Rizal),9530001_h5_w11.png
+Roanoke,37.270973,-79.9414313,Exact Match,9530001_h5_w11.png
+Bristol,36.5959685,-82.1885009,Fixed Typo (Bristole -> Bristol),9530001_h5_w11.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),9530001_h5_w11.png
+Salem,44.9391565,-123.033121,Exact Match,9530001_h5_w11.png
+Johnston,41.6731523,-93.6973395,Fixed Typo (Johnson -> Johnston),9530001_h5_w11.png
+Raleigh,35.7803977,-78.6390989,Exact Match,9530001_h5_w11.png
+Hickory,35.7333312,-81.3442915,Exact Match,9530001_h5_w11.png
+Fort Bragg,39.4436579,-123.8057607,Fixed Typo (Ft Bragg -> Fort Bragg),9530001_h5_w11.png
+Murray,36.6106122,-88.3021092,Exact Match,9530001_h5_w11.png
+Macon,32.8406946,-83.6324022,Exact Match,9530001_h5_w11.png
+Richmond,37.5385087,-77.43428,Exact Match,9530001_h5_w11.png
+Lexington,38.0464066,-84.4970393,Fixed Typo (LexingtonQ -> Lexington),9530001_h5_w11.png
+Lynchburg,37.4137536,-79.1422464,Exact Match,9530001_h5_w11.png
+Petersburg,59.938732,30.316229,Exact Match,9530001_h5_w11.png
+Cocal,-3.4691882,-41.555851,Fixed Typo (COAL -> Cocal),9530001_h5_w11.png
+Minning,38.2539,105.969,Fixed Typo (MINING -> Minning),9530001_h5_w11.png
+Cumberland,39.6526498,-78.762383,Fixed Typo (UMBERLAND -> Cumberland),9530001_h5_w11.png
+Lacey,47.0263876,-122.8072257,Fixed Typo (LACE -> Lacey),9530001_h5_w11.png
+Kingsport,36.550238,-82.5594293,Exact Match,9530001_h5_w11.png
+Green,39.427776,-97.001961,Fixed Typo (GREENE -> Green),9530001_h5_w11.png
+Mitchell,43.70953,-98.025379,Exact Match,9530001_h5_w11.png
+Pinehurst,30.1071543,-93.7746117,Exact Match,9530001_h5_w11.png
+Asheville,35.595363,-82.5508407,Exact Match,9530001_h5_w11.png
+Gastonia,35.2622654,-81.1838186,Exact Match,9530001_h5_w11.png
+Charlotte ,35.2272086,-80.8430827,Exact Match,9530001_h5_w11.png
+Spartanburg,34.9498007,-81.9320157,Exact Match,9530001_h5_w11.png
+Columbia,34.000754,-81.0352313,Exact Match,9530001_h5_w11.png
+Aiken,33.5616173,-81.7224579,Exact Match,9530001_h5_w11.png
+Augusta,33.4709714,-81.9748429,Exact Match,9530001_h5_w11.png
+Charleston,32.7884363,-79.9399309,Fixed Typo ('Charleston -> Charleston),9530001_h5_w11.png
+Plymouth,41.9583799,-70.6673851,Exact Match,9530002_h8_w10.png
+Williamsport,41.2411556,-77.0011096,Exact Match,9530002_h8_w10.png
+Montgomery,32.37742,-86.3091683,Exact Match,9530002_h8_w10.png
+Berwick,41.0602024,-76.2461259,Exact Match,9530002_h8_w10.png
+Hale,39.6036334,-93.3424307,Fixed Typo (Hazle -> Hale),9530002_h8_w10.png
+Danville,40.125222,-87.6304614,Exact Match,9530002_h8_w10.png
+Carmel,36.5552656,-121.923278,Exact Match,9530002_h8_w10.png
+Philipsburg,40.8964465,-78.2205688,Fixed Typo ('Phillipsburg -> Philipsburg),9530002_h8_w10.png
+Middelburg,51.4996784,3.6137371,Fixed Typo (Middleburg -> Middelburg),9530002_h8_w10.png
+Tremont,40.6284222,-76.3871768,Exact Match,9530002_h8_w10.png
+Porto,41.1502195,-8.6103497,Fixed Typo (Port -> Porto),9530002_h8_w10.png
+Hamburg,53.550341,10.000654,Exact Match,9530002_h8_w10.png
+Newport,41.4899827,-71.3137707,Exact Match,9530002_h8_w10.png
+Seminole,32.7167351,-102.6490967,Exact Match,9530002_h8_w10.png
+Hobbs,32.7027017,-103.1355302,Fixed Typo (obbs -> Hobbs),9530002_h8_w10.png
+La Mesa,32.7678288,-117.0230839,Fixed Typo (Lamesa -> La Mesa),9530002_h8_w10.png
+Time,39.5614368,-90.7242938,Fixed Typo (Time` -> Time),9530002_h8_w10.png
+Shafter,35.501461,-119.273682,Exact Match,9530002_h8_w10.png
+Merke,51.8002387,14.9146759,Fixed Typo (Merkel -> Merke),9530002_h8_w10.png
+Shenandoah,40.7655468,-95.3723535,Fixed Typo (IShenandoah' -> Shenandoah),9530002_h8_w10.png
+Rivera,45.1147797,7.4137652,Fixed Typo (River -> Rivera),9530002_h8_w10.png
+Lewiston,46.4195913,-117.0216144,Fixed Typo (Lewistown -> Lewiston),9530002_h8_w10.png
+Sweetwater,32.4709519,-100.405938,Fixed Typo (iSweetwater -> Sweetwater),9530002_h8_w10.png
+Amarillo,35.20729,-101.8371192,Exact Match,9532003_h6_w7.png
+Clinton,41.8502821,-90.1877485,Exact Match,9532003_h6_w7.png
+El Reno,35.532198,-97.9550578,Exact Match,9532003_h6_w7.png
+Hobart,41.5322592,-87.2550353,Fixed Typo (Hobarte  -> Hobart),9532003_h6_w7.png
+Chickasha,35.0512159,-97.9370036,Exact Match,9532003_h6_w7.png
+Memphis,35.1460249,-90.0517638,Exact Match,9532003_h6_w7.png
+Pari,48.8534951,2.3483915,Exact Match,9532003_h6_w7.png
+Frederick,39.415779,-77.4127562,Exact Match,9532003_h6_w7.png
+Duncan,34.5023029,-97.9578129,Exact Match,9532003_h6_w7.png
+Plainview,34.1847936,-101.706841,Exact Match,9532003_h6_w7.png
+Rivera,45.1147797,7.4137652,Fixed Typo (River -> Rivera),9532003_h6_w7.png
+Ardmore,34.1729273,-97.1309119,Exact Match,9532003_h6_w7.png
+Wichita Falls,33.9004572,-98.5020777,Exact Match,9532003_h6_w7.png
+Cleveland,41.4996574,-81.6936772,Fixed Typo (Levelland -> Cleveland),9532003_h6_w7.png
+Lubbock,33.5855677,-101.8470215,Exact Match,9532003_h6_w7.png
+Henrietta,33.8166258,-98.194682,Exact Match,9532003_h6_w7.png
+Bowie,39.0080601,-76.7797899,Fixed Typo (Bowie? -> Bowie),9532003_h6_w7.png
+Graham,33.1020053,-98.581341,Exact Match,9532003_h6_w7.png
+Denton,33.2150386,-97.1330516,Exact Match,9532003_h6_w7.png
+Stamford,41.0534302,-73.5387341,Exact Match,9532003_h6_w7.png
+Hobbs,32.7027017,-103.1355302,Exact Match,9532003_h6_w7.png
+La Mesa,32.7678288,-117.0230839,Fixed Typo (Lamesa -> La Mesa),9532003_h6_w7.png
+Wels,48.1565472,14.0243752,Fixed Typo (Wells -> Wels),9532003_h6_w7.png
+Bracken Ridge,-27.317662,153.03393576327434,Fixed Typo (Breckenridge -> Bracken Ridge),9532003_h6_w7.png
+Sweetwater,32.4709519,-100.405938,Exact Match,9532003_h6_w7.png
+Fort Worth,32.753177,-97.3327459,"Fixed Typo (""FortWorth -> Fort Worth)",9532003_h6_w7.png
+Midland,31.9973662,-102.077948,Fixed Typo (Midlandy -> Midland),9532003_h6_w7.png
+Stephenville,32.2201387,-98.2045388,Fixed Typo (Stephenville . -> Stephenville),9532003_h6_w7.png
+Brownwood,31.7156858,-98.983442,Exact Match,9532003_h6_w7.png
+Temple,31.098207,-97.3427847,Exact Match,9532003_h6_w7.png
+Buchanan,33.8026048,-85.1885607,Exact Match,9532003_h6_w7.png
+Taylor,42.240872,-83.2696509,Exact Match,9532003_h6_w7.png
+Austin,30.2711286,-97.7436995,Exact Match,9532003_h6_w7.png
+Fredericksburg,38.3031837,-77.4605399,Exact Match,9532003_h6_w7.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),9532003_h6_w7.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),9532003_h6_w7.png
+Clovis,34.405472,-103.2050709,Exact Match,9532003_h6_w7.png
+Abilene,32.44645,-99.7475905,Fixed Typo (YAbilene -> Abilene),9532003_h6_w7.png
+Springs,41.0162112,-72.1592444,Exact Match,9532003_h6_w7.png
+Odessa,31.8457149,-102.367687,Exact Match,9532003_h6_w7.png
+Colorado,38.7251776,-105.607716,Exact Match,9532003_h6_w7.png
+San,11.8444164,-3.2748386,Exact Match,9532003_h6_w7.png
+Rivera,45.1147797,7.4137652,Fixed Typo (River -> Rivera),9532003_h6_w7.png
+Anderson,40.1053196,-85.6802541,Fixed Typo (Sanderson -> Anderson),9532003_h6_w7.png
+Gare,42.3724798,21.6268015,Exact Match,9534006_h3_w2.png
+Paris,48.8534951,2.3483915,Exact Match,9534006_h3_w2.png
+Cham,49.2178194,12.6663832,Fixed Typo (Champ -> Cham),9534006_h3_w2.png
+Tours,47.3900474,0.6889268,Fixed Typo (Tour -> Tours),9534006_h3_w2.png
+Fontaine,36.0002035,-90.8139667,Exact Match,9534006_h3_w2.png
+Versailles,38.052576,-84.7299464,Exact Match,9534006_h3_w2.png
+Cham,49.2178194,12.6663832,Fixed Typo (Champ -> Cham),9534006_h3_w2.png
+Paris,48.8534951,2.3483915,Exact Match,9534006_h3_w2.png
+Rheine,52.2797707,7.4373615,Fixed Typo (REINE -> Rheine),9534006_h3_w2.png
+Paine,41.3622832,-78.5758562,Fixed Typo (Plaine -> Paine),9534006_h3_w2.png
+Damme,51.2514978,3.281482,Fixed Typo (Dame -> Damme),9534006_h3_w2.png
+Gare,42.3724798,21.6268015,Exact Match,9534006_h3_w2.png
+Larne,54.8508458,-5.8183116,Fixed Typo (LanE -> Larne),9610001_h2_w3.png
+Cleveland,41.4996574,-81.6936772,Exact Match,9610001_h2_w3.png
+Superior,46.7207737,-92.1040796,Fixed Typo (UPERIOR -> Superior),9610001_h2_w3.png
+Estelle,31.969315,-87.2024875,Fixed Typo (Lestelle -> Estelle),9614003_h3_w9.png
+Cocos,18.45693465,-66.9129895719989,Exact Match,9614003_h3_w9.png
+Larne,54.8508458,-5.8183116,Fixed Typo (LANE -> Larne),9614003_h3_w9.png
+Pontiac,42.6389216,-83.2910468,Exact Match,9614003_h3_w9.png
+Khobar,26.3039999,50.1960237,Fixed Typo (HOBAR -> Khobar),9614003_h3_w9.png
+Adam,38.8300881,-81.1717816,Fixed Typo (ADAMS -> Adam),9614003_h3_w9.png
+Aroa,10.4421908,-68.8978308,Fixed Typo (AROSA -> Aroa),9614003_h3_w9.png
+Adam,38.8300881,-81.1717816,Fixed Typo (ADAMS -> Adam),9614003_h3_w9.png
+Madison,43.074761,-89.3837613,Exact Match,9614003_h3_w9.png
+Adelaide,-34.9281805,138.5999312,Exact Match,9614003_h3_w9.png
+Ilave,-16.086789,-69.6385874,Fixed Typo (IAVE -> Ilave),9614003_h3_w9.png
+Oria,37.4841014,-2.2924853,Fixed Typo ('oria -> Oria),9614003_h3_w9.png
+Ilave,-16.086789,-69.6385874,Fixed Typo (IAVE -> Ilave),9614003_h3_w9.png
+Orange,33.7872568,-117.850308,Exact Match,9614003_h3_w9.png
+Tarragona,41.1172364,1.2546057,Fixed Typo (TaRraGONE -> Tarragona),9614003_h3_w9.png
+University,28.597661,-81.2158247,Exact Match,9614003_h3_w9.png
+Ogden,41.2230048,-111.9738429,Exact Match,9614003_h3_w9.png
+Sterling,41.788253,-89.6953656,Fixed Typo (TERLING -> Sterling),9614003_h3_w9.png
+Sterling,41.788253,-89.6953656,Exact Match,9614003_h3_w9.png
+Nava,43.3582544,-5.5057607,Fixed Typo (NAVAL -> Nava),9614003_h3_w9.png
+Hermosa,43.839867,-103.191374,Exact Match,9615000_h8_w6.png
+Tapachula,14.9042905,-92.2609265,Fixed Typo (Tapachul -> Tapachula),9615000_h8_w6.png
+Ashington,55.1832364,-1.57027,Fixed Typo (ishington -> Ashington),9615000_h8_w6.png
+Cincinnati,39.1014537,-84.5124602,Exact Match,9615000_h8_w6.png
+Richmond,37.5385087,-77.43428,Exact Match,9615000_h8_w6.png
+Raleigh,35.7803977,-78.6390989,Fixed Typo (Raleighe -> Raleigh),9615000_h8_w6.png
+Forest,32.3645888,-89.4742348,Exact Match,9615000_h8_w6.png
+Knoxville,35.9603948,-83.9210261,Exact Match,9615000_h8_w6.png
+Charleston,32.7884363,-79.9399309,Exact Match,9615000_h8_w6.png
+Memphis,35.1460249,-90.0517638,Exact Match,9615000_h8_w6.png
+Atlanta,33.7544657,-84.3898151,Exact Match,9615000_h8_w6.png
+Jacksonville,30.3321838,-81.655651,Exact Match,9615000_h8_w6.png
+Mobile,30.6913462,-88.0437509,Exact Match,9615000_h8_w6.png
+Orleans,43.4471778,-95.0924946,Exact Match,9615000_h8_w6.png
+Nassau,45.0663534,-96.4397751,Exact Match,9615000_h8_w6.png
+Ami,36.030794,140.2136028,Exact Match,9615000_h8_w6.png
+San,11.8444164,-3.2748386,Exact Match,9615000_h8_w6.png
+Mantilla,-28.751389,-58.6530602,Fixed Typo (Antilla -> Mantilla),9615000_h8_w6.png
+Trujillo,-8.1116778,-79.0287742,Fixed Typo (ITrujillo -> Trujillo),9615000_h8_w6.png
+Jamaica,18.1850507,-77.3947693,Exact Match,9615000_h8_w6.png
+Kingston,41.9287812,-74.0023825,Exact Match,9615000_h8_w6.png
+Belize,17.1204943,-88.6859028,Exact Match,9615000_h8_w6.png
+Maracaibo,10.6498095,-71.6443596,Exact Match,9615000_h8_w6.png
+Barranquilla,10.9938599,-74.7926118,Exact Match,9615000_h8_w6.png
+Tegucigalpa,14.1057433,-87.2040052,Fixed Typo (Tegucigdlpa -> Tegucigalpa),9615000_h8_w6.png
+Managua,12.1544035,-86.2737642,Exact Match,9615000_h8_w6.png
+Davis,38.5435526,-121.739005,Exact Match,9619000_h5_w6.png
+Forst,51.7438586,14.6455395,Fixed Typo (FORt -> Forst),9629002_h3_w7.png
+Reservoir,42.3348196,-71.1483865,Fixed Typo (Reservoi -> Reservoir),9629002_h3_w7.png
+Larne,54.8508458,-5.8183116,Fixed Typo (LANE -> Larne),9629002_h3_w7.png
+Poole,40.979734,-98.9698068,Fixed Typo (Pool -> Poole),9629002_h3_w7.png
+Goma,-1.6665685,29.225652,Fixed Typo (Gompa -> Goma),9643001_h3_w8.png
+Pori,61.4866126,21.7972071,Fixed Typo (Ponri -> Pori),9643001_h3_w8.png
+Goma,-1.6665685,29.225652,Fixed Typo (Gompa -> Goma),9643001_h3_w8.png
+Goma,-1.6665685,29.225652,Fixed Typo (Gompa -> Goma),9643001_h3_w8.png
+Plattsburgh,44.6960855,-73.4542915,Fixed Typo (PLATTSBURG -> Plattsburgh),9685000_h4_w3.png
+Lathrop,37.8227046,-121.27661,Fixed Typo ('Lathrop -> Lathrop),9685000_h4_w3.png
+Dearborn,42.3222599,-83.1763145,Exact Match,9685000_h4_w3.png
+Holt,48.2919155,-96.1925311,Exact Match,9685000_h4_w3.png
+Coity,51.5212979,-3.5539979,Fixed Typo (CITY -> Coity),9685000_h4_w3.png
+Kearney,40.699478,-99.081858,Exact Match,9685000_h4_w3.png
+Springs,41.0162112,-72.1592444,Exact Match,9685000_h4_w3.png
+Nashua,42.7656251,-71.4677032,Exact Match,9685000_h4_w3.png
+Parkville,39.3773292,-76.5396875,Exact Match,9685000_h4_w3.png
+Atherton,37.453773,-122.2058272,Exact Match,9685000_h4_w3.png
+Independence,39.0924792,-94.4137923,Exact Match,9685000_h4_w3.png
+Topeka,39.049011,-95.677556,Exact Match,9685000_h4_w3.png
+Valls,41.2835355,1.2473637,Fixed Typo (Vall -> Valls),9685000_h4_w3.png
+Longview,32.5007031,-94.74049,Exact Match,9685000_h4_w3.png
+Eger,47.8989887,20.3743665,Fixed Typo (Edger -> Eger),9685000_h4_w3.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),9685000_h4_w3.png
+Weston,26.1003392,-80.399513,Exact Match,9685000_h4_w3.png
+Tracy,37.7385507,-121.420139,Exact Match,9685000_h4_w3.png
+Coity,51.5212979,-3.5539979,Fixed Typo (City -> Coity),9685000_h4_w3.png
+Springs,41.0162112,-72.1592444,Exact Match,9685000_h4_w3.png
+Hille,52.3360492,8.7452571,Fixed Typo (Hill -> Hille),9687122_h2_w2.png
+Columbia,34.000754,-81.0352313,Fixed Typo (COLUMBIAY -> Columbia),9687122_h2_w2.png
+Florin,40.1134949,-76.5256964,Fixed Typo (FLORI -> Florin),9687122_h2_w2.png
+Massa,44.0359323,10.1395519,Fixed Typo (MAsS -> Massa),9687122_h2_w2.png
+Burke,31.2318536,-94.7685411,Fixed Typo (WBurke -> Burke),9731011_h2_w2.png
+Kirkby,53.4821071,-2.8886045,Fixed Typo (KiRBY -> Kirkby),9731011_h2_w2.png
+Bath,43.9133661,-69.8140298,Exact Match,9731011_h2_w2.png
+Hyde Park,41.7944464,-87.5939244,Fixed Typo (HYDE PARlk -> Hyde Park),9731011_h2_w2.png
+Mansfield,40.75839,-82.5154471,Fixed Typo (Mansfiels -> Mansfield),9731011_h2_w2.png
+Chino,34.0133561,-117.690075,Fixed Typo (Chin -> Chino),9731011_h2_w2.png
+Springs,41.0162112,-72.1592444,Fixed Typo (Isprings -> Springs),9731011_h2_w2.png
+Waterbury,41.5538091,-73.0438362,Fixed Typo (waterbuty -> Waterbury),9731011_h2_w2.png
+Northfield,44.4582041,-93.161159,Fixed Typo (Northlield -> Northfield),9731011_h2_w2.png
+Telde,27.9984538,-15.4166761,Fixed Typo (TELD -> Telde),9731011_h2_w2.png
+Springs,41.0162112,-72.1592444,Fixed Typo ({Springs -> Springs),9731011_h2_w2.png
+Ashington,55.1832364,-1.57027,Exact Match,9731011_h2_w2.png
+Haverhill,42.7777829,-71.0767724,Fixed Typo (Haverhil -> Haverhill),9731011_h2_w2.png
+Biak,-1.1836086,136.0816321,Fixed Typo (Biack -> Biak),9731011_h2_w2.png
+Bradford,41.1774952,-89.6578789,Exact Match,9731011_h2_w2.png
+Springs ,41.0162112,-72.1592444,Exact Match,9731011_h2_w2.png
+Alton,38.8908583,-90.1843091,Exact Match,9731011_h2_w2.png
+Alton,38.8908583,-90.1843091,Fixed Typo (ralton -> Alton),9731011_h2_w2.png
+Haney,43.238677100000004,-90.84370978598098,Fixed Typo (hney -> Haney),9731011_h2_w2.png
+Hillside,41.8778084,-87.9028398,Exact Match,9733049_h4_w8.png
+Hille,52.3360492,8.7452571,Fixed Typo (Hill -> Hille),9733049_h4_w8.png
+Harper,41.3624875,-92.0510088,Fixed Typo (Harpere -> Harper),9733049_h4_w8.png
+Rockledge,28.330831,-80.7349162,Fixed Typo (Rockledges -> Rockledge),9733049_h4_w8.png
+Fox Chase,38.0456219,-85.6927366,Exact Match,9733049_h4_w8.png
+Asan,13.4721533,144.7165731,Exact Match,9733049_h4_w8.png
+Melrose,42.4564323,-71.064182,Fixed Typo (elrose -> Melrose),9733049_h4_w8.png
+Allen,33.1031744,-96.6705503,Exact Match,9733049_h4_w8.png
+Cheltenham,40.0609445,-75.0940625,Exact Match,9733049_h4_w8.png
+Tabora,-5.0202431,32.8097724,Fixed Typo (Tabor -> Tabora),9733049_h4_w8.png
+Eving,51.5481277,7.4650456,Fixed Typo (Ving -> Eving),9733049_h4_w8.png
+Olney,33.3711244,-98.7566946,Exact Match,9733049_h4_w8.png
+Queens,40.7135078,-73.8283132,Fixed Typo (Queen -> Queens),9733049_h4_w8.png
+Erie,42.1294712,-80.0852695,Exact Match,9733049_h4_w8.png
+Ratia,29.6862307,75.5750521,Fixed Typo (RatA -> Ratia),9733049_h4_w8.png
+Frankford,38.518038,-75.233764,Exact Match,9733049_h4_w8.png
+Port Huron,42.9760854,-82.4333742,Exact Match,9734118_h3_w7.png
+Lansing,42.7338254,-84.5546295,Exact Match,9734118_h3_w7.png
+Narra,9.2685102,118.4035463,Fixed Typo (Narrag -> Narra),9734118_h3_w7.png
+Scranton,41.4086874,-75.6621294,Fixed Typo (Scranton' -> Scranton),9734118_h3_w7.png
+Sandusky,41.4561002,-82.7115813,Exact Match,9734118_h3_w7.png
+Cincinnati,39.1014537,-84.5124602,Fixed Typo (Cincinati -> Cincinnati),9734118_h3_w7.png
+Lexington,38.0464066,-84.4970393,Exact Match,9734118_h3_w7.png
+Detroit,42.3315509,-83.0466403,Fixed Typo (Detroitk -> Detroit),9734118_h3_w7.png
+Toledo,41.6529143,-83.5378173,Exact Match,9734118_h3_w7.png
+Philadelphia,39.9527237,-75.1635262,Exact Match,9734118_h3_w7.png
+Atani,6.0149812,6.7471662,Fixed Typo (Atan -> Atani),9734118_h3_w7.png
+Parker,39.5184514,-104.7612638,Exact Match,9734118_h3_w7.png
+Lynchburg,37.4137536,-79.1422464,Exact Match,9734118_h3_w7.png
+Aue,50.586993,12.6992687,Exact Match,9734118_h3_w7.png
+Knoxville,35.9603948,-83.9210261,Fixed Typo (Knoxvile -> Knoxville),9734118_h3_w7.png

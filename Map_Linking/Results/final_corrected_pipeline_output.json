@@ -1,0 +1,5398 @@
+[
+    {
+        "image_id": "8819000_h2_w6",
+        "filename": "8819000_h2_w6.png",
+        "phrases": [
+            {
+                "text": "Kozhikode",
+                "confidence": 0,
+                "latitude": 11.2450558,
+                "longitude": 75.7754716,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Colombo",
+                "confidence": 0,
+                "latitude": 6.9388614,
+                "longitude": 79.8542005,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            }
+        ]
+    },
+    {
+        "image_id": "8826002_h4_w5",
+        "filename": "8826002_h4_w5.png",
+        "phrases": [
+            {
+                "text": "Dallas",
+                "confidence": 0,
+                "latitude": 32.7762719,
+                "longitude": -96.7968559,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Loudi",
+                "confidence": 0,
+                "latitude": 27.6995215,
+                "longitude": 111.9890658,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Loud -> Loudi)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Waco",
+                "confidence": 0,
+                "latitude": 31.5491899,
+                "longitude": -97.1474628,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Austin",
+                "confidence": 0,
+                "latitude": 30.2711286,
+                "longitude": -97.7436995,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Brits",
+                "confidence": 0,
+                "latitude": -25.6297222,
+                "longitude": 27.7841667,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (bits -> Brits)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Houston",
+                "confidence": 0,
+                "latitude": 29.7589382,
+                "longitude": -95.3676974,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "San Antonio",
+                "confidence": 0,
+                "latitude": 29.4246002,
+                "longitude": -98.4951405,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Most",
+                "confidence": 0,
+                "latitude": 50.5032737,
+                "longitude": 13.636112,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Colorado",
+                "confidence": 0,
+                "latitude": 38.7251776,
+                "longitude": -105.607716,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            }
+        ]
+    },
+    {
+        "image_id": "8831000_h3_w4",
+        "filename": "8831000_h3_w4.png",
+        "phrases": [
+            {
+                "text": "Ardea",
+                "confidence": 0,
+                "latitude": 41.608712,
+                "longitude": 12.519382,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (AREA -> Ardea)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Sterling",
+                "confidence": 0,
+                "latitude": 41.788253,
+                "longitude": -89.6953656,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo ('STERLING -> Sterling)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Trappes",
+                "confidence": 0,
+                "latitude": 48.7760957,
+                "longitude": 1.9988356,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (TRAPPERS -> Trappes)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Rivera",
+                "confidence": 0,
+                "latitude": 45.1147797,
+                "longitude": 7.4137652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (RIVER -> Rivera)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Denver",
+                "confidence": 0,
+                "latitude": 39.7392364,
+                "longitude": -104.984862,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Santa Isabel",
+                "confidence": 0,
+                "latitude": -23.3194222,
+                "longitude": -46.2271903,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (SAN ISABEL -> Santa Isabel)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Great Bend",
+                "confidence": 0,
+                "latitude": 38.3625063,
+                "longitude": -98.7804087,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Albuquerque",
+                "confidence": 0,
+                "latitude": 35.0841034,
+                "longitude": -106.650985,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Casper",
+                "confidence": 0,
+                "latitude": 42.8501191,
+                "longitude": -106.325138,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Saratoga",
+                "confidence": 0,
+                "latitude": 37.2638324,
+                "longitude": -122.0230146,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Cheyenne",
+                "confidence": 0,
+                "latitude": 41.139981,
+                "longitude": -104.820246,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Roosevelt",
+                "confidence": 0,
+                "latitude": 48.8034101,
+                "longitude": -95.0982082,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Rivera",
+                "confidence": 0,
+                "latitude": 45.1147797,
+                "longitude": 7.4137652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (RIVER -> Rivera)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Granby",
+                "confidence": 0,
+                "latitude": 41.9538298,
+                "longitude": -72.789313,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Tigre",
+                "confidence": 0,
+                "latitude": -3.05555545,
+                "longitude": -75.21183906129795,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (IGRE -> Tigre)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Vista",
+                "confidence": 0,
+                "latitude": 33.2021284,
+                "longitude": -117.2424787,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Cheyenne",
+                "confidence": 0,
+                "latitude": 41.139981,
+                "longitude": -104.820246,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Chaman",
+                "confidence": 0,
+                "latitude": 30.915948,
+                "longitude": 66.4631051,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (CHAMA -> Chaman)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Carson",
+                "confidence": 0,
+                "latitude": 33.8322043,
+                "longitude": -118.2517547,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Anta",
+                "confidence": 0,
+                "latitude": -9.3576676,
+                "longitude": -77.598543,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (SANTA -> Anta)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Anta",
+                "confidence": 0,
+                "latitude": -9.3576676,
+                "longitude": -77.598543,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (SANTA -> Anta)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "8880003_h5_w5",
+        "filename": "8880003_h5_w5.png",
+        "phrases": [
+            {
+                "text": "Dessau",
+                "confidence": 0,
+                "latitude": 51.8309956,
+                "longitude": 12.2430723,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Naumburg",
+                "confidence": 0,
+                "latitude": 51.1525648,
+                "longitude": 11.8099186,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Erfurt",
+                "confidence": 0,
+                "latitude": 50.9777974,
+                "longitude": 11.0287364,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Jena",
+                "confidence": 0,
+                "latitude": 31.6832271,
+                "longitude": -92.1337448,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Altena",
+                "confidence": 0,
+                "latitude": 51.2990263,
+                "longitude": 7.6734841,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (ALTEN -> Altena)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Halle",
+                "confidence": 0,
+                "latitude": 51.4824354,
+                "longitude": 11.9712985,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Merseburg",
+                "confidence": 0,
+                "latitude": 51.3564413,
+                "longitude": 11.996148,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (MERSBBURG -> Merseburg)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Leipzig",
+                "confidence": 0,
+                "latitude": 51.3406321,
+                "longitude": 12.3747329,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (LEIPZIG: -> Leipzig)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "8883002_h11_w14",
+        "filename": "8883002_h11_w14.png",
+        "phrases": [
+            {
+                "text": "Frisco",
+                "confidence": 0,
+                "latitude": 37.7792588,
+                "longitude": -122.4193286,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Chato",
+                "confidence": 0,
+                "latitude": -33.1065092,
+                "longitude": -55.13671920452819,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Chatom -> Chato)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Geneva",
+                "confidence": 0,
+                "latitude": 46.2017559,
+                "longitude": 6.1466014,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Banbridge",
+                "confidence": 0,
+                "latitude": 54.3514168,
+                "longitude": -6.2714623,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Bainbridge -> Banbridge)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Quincy",
+                "confidence": 0,
+                "latitude": 42.2509914,
+                "longitude": -71.0037374,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Mobile",
+                "confidence": 0,
+                "latitude": 30.6913462,
+                "longitude": -88.0437509,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Milton",
+                "confidence": 0,
+                "latitude": 42.2501425,
+                "longitude": -71.065573,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Springs",
+                "confidence": 0,
+                "latitude": -26.2550033,
+                "longitude": 28.4373147,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Springs! -> Springs)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Tallahassee",
+                "confidence": 0,
+                "latitude": 30.4380832,
+                "longitude": -84.2809332,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Tallahass -> Tallahassee)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Daphne",
+                "confidence": 0,
+                "latitude": 30.6035255,
+                "longitude": -87.9036047,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Fairhope",
+                "confidence": 0,
+                "latitude": 30.5231647,
+                "longitude": -87.9028458,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Moss",
+                "confidence": 0,
+                "latitude": 32.997821,
+                "longitude": -115.4077613,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Foley",
+                "confidence": 0,
+                "latitude": 45.663512,
+                "longitude": -93.9137277,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Matui",
+                "confidence": 0,
+                "latitude": 1.0383448,
+                "longitude": 127.5392028,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (MAUI -> Matui)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Pala",
+                "confidence": 0,
+                "latitude": 33.3653102,
+                "longitude": -117.076696,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Handa",
+                "confidence": 0,
+                "latitude": 34.8938136,
+                "longitude": 136.9369523,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Hana -> Handa)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Kahului",
+                "confidence": 0,
+                "latitude": 20.8894101,
+                "longitude": -156.4727118,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Dothan",
+                "confidence": 0,
+                "latitude": 31.2237285,
+                "longitude": -85.3934375,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Hartford",
+                "confidence": 0,
+                "latitude": 41.764582,
+                "longitude": -72.6908547,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Lakeville",
+                "confidence": 0,
+                "latitude": 44.650051,
+                "longitude": -93.2432791,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Leakesville -> Lakeville)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Valparaiso",
+                "confidence": 0,
+                "latitude": 41.4672552,
+                "longitude": -87.0604487,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Pensacola",
+                "confidence": 0,
+                "latitude": 30.421309,
+                "longitude": -87.2169149,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Springfield",
+                "confidence": 0,
+                "latitude": 39.7990175,
+                "longitude": -89.6439575,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Rosas",
+                "confidence": 0,
+                "latitude": 2.2621018,
+                "longitude": -76.7392875,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Rosa -> Rosas)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Pascagoula",
+                "confidence": 0,
+                "latitude": 30.3646795,
+                "longitude": -88.5585995,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (ascagoula -> Pascagoula)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Alton",
+                "confidence": 0,
+                "latitude": 38.8908583,
+                "longitude": -90.1843091,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Walton -> Alton)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Rosas",
+                "confidence": 0,
+                "latitude": 2.2621018,
+                "longitude": -76.7392875,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Rosa -> Rosas)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Anta",
+                "confidence": 0,
+                "latitude": -9.3576676,
+                "longitude": -77.598543,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Santa -> Anta)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Wewak",
+                "confidence": 0,
+                "latitude": -3.5542197,
+                "longitude": 143.6270904,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Wewa -> Wewak)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Mobile",
+                "confidence": 0,
+                "latitude": 30.6913462,
+                "longitude": -88.0437509,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Anta",
+                "confidence": 0,
+                "latitude": -9.3576676,
+                "longitude": -77.598543,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Santa -> Anta)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Forst",
+                "confidence": 0,
+                "latitude": 51.7438586,
+                "longitude": 14.6455395,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Fort -> Forst)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Belas",
+                "confidence": 0,
+                "latitude": 38.7759227,
+                "longitude": -9.2639227,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Blas -> Belas)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "George",
+                "confidence": 0,
+                "latitude": 43.3436751,
+                "longitude": -96.0022965,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Chandler",
+                "confidence": 0,
+                "latitude": 33.3062031,
+                "longitude": -111.841185,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Chandeleur -> Chandler)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Venice",
+                "confidence": 0,
+                "latitude": 45.4371908,
+                "longitude": 12.3345898,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Gardena",
+                "confidence": 0,
+                "latitude": 33.8815702,
+                "longitude": -118.2918113,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Garden -> Gardena)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Porta",
+                "confidence": 0,
+                "latitude": 42.5260507,
+                "longitude": 1.8256362,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Port -> Porta)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Burwood",
+                "confidence": 0,
+                "latitude": -33.8784753,
+                "longitude": 151.104049,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Burrwood -> Burwood)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Meads",
+                "confidence": 0,
+                "latitude": 38.4125817,
+                "longitude": -82.7090513,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Eads -> Meads)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Bay",
+                "confidence": 0,
+                "latitude": 35.7428864,
+                "longitude": -90.5625134,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Kaneohe",
+                "confidence": 0,
+                "latitude": 21.418555,
+                "longitude": -157.804184,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Hala",
+                "confidence": 0,
+                "latitude": 51.4824354,
+                "longitude": 11.9712985,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Kailua",
+                "confidence": 0,
+                "latitude": 19.641941,
+                "longitude": -155.996933,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Honolulu",
+                "confidence": 0,
+                "latitude": 21.304547,
+                "longitude": -157.855676,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Pearl",
+                "confidence": 0,
+                "latitude": 32.2735792,
+                "longitude": -90.127881,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            }
+        ]
+    },
+    {
+        "image_id": "8915000_h2_w3",
+        "filename": "8915000_h2_w3.png",
+        "phrases": [
+            {
+                "text": "Kazan",
+                "confidence": 0,
+                "latitude": 55.7823547,
+                "longitude": 49.1242266,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Saipan",
+                "confidence": 0,
+                "latitude": 15.1909825,
+                "longitude": 145.746743003024,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Apan",
+                "confidence": 0,
+                "latitude": 54.9738474,
+                "longitude": -1.6131572,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Japan -> Apan)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Muroran",
+                "confidence": 0,
+                "latitude": 42.3152461,
+                "longitude": 140.9740731,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Vladivostok",
+                "confidence": 0,
+                "latitude": 43.1150678,
+                "longitude": 131.8855768,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (VLAdiVOSTOC -> Vladivostok)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "8926002_h3_w2",
+        "filename": "8926002_h3_w2.png",
+        "phrases": [
+            {
+                "text": "Bologna",
+                "confidence": 0,
+                "latitude": 44.4938203,
+                "longitude": 11.3426327,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (BOLLOGNA -> Bologna)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9016003_h4_w4",
+        "filename": "9016003_h4_w4.png",
+        "phrases": [
+            {
+                "text": "Lerik",
+                "confidence": 0,
+                "latitude": 38.7752945,
+                "longitude": 48.418155,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Lerk -> Lerik)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Aalen",
+                "confidence": 0,
+                "latitude": 48.8375607,
+                "longitude": 10.0929593,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Aale -> Aalen)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9034002_h10_w16",
+        "filename": "9034002_h10_w16.png",
+        "phrases": [
+            {
+                "text": "Lyon",
+                "confidence": 0,
+                "latitude": 45.7578137,
+                "longitude": 4.8320114,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Lyons -> Lyon)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Douglas",
+                "confidence": 0,
+                "latitude": 31.5088073,
+                "longitude": -82.8498654,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Tifton",
+                "confidence": 0,
+                "latitude": 31.4549719,
+                "longitude": -83.5108284,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "St. Marys",
+                "confidence": 0,
+                "latitude": 41.3081707,
+                "longitude": -93.7318728,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (St.Marys -> St. Marys)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Jasper",
+                "confidence": 0,
+                "latitude": 30.9201995,
+                "longitude": -93.9965759,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Orange",
+                "confidence": 0,
+                "latitude": 33.7872568,
+                "longitude": -117.850308,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Winter Park",
+                "confidence": 0,
+                "latitude": 28.5977707,
+                "longitude": -81.3510264,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Winter Par) -> Winter Park)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Orlando",
+                "confidence": 0,
+                "latitude": 28.5421109,
+                "longitude": -81.3790304,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Rivera",
+                "confidence": 0,
+                "latitude": 45.1147797,
+                "longitude": 7.4137652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (River -> Rivera)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Gare",
+                "confidence": 0,
+                "latitude": 42.3724798,
+                "longitude": 21.6268015,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Cocoa",
+                "confidence": 0,
+                "latitude": 28.3556635,
+                "longitude": -80.7325345,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Porta",
+                "confidence": 0,
+                "latitude": 42.5260507,
+                "longitude": 1.8256362,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Port -> Porta)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Dublin",
+                "confidence": 0,
+                "latitude": 53.3493795,
+                "longitude": -6.2605593,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Garden City",
+                "confidence": 0,
+                "latitude": 37.9716898,
+                "longitude": -100.8726618,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Cochrane",
+                "confidence": 0,
+                "latitude": 49.066668,
+                "longitude": -81.017303,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Cochran -> Cochrane)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Savannah",
+                "confidence": 0,
+                "latitude": 32.0790074,
+                "longitude": -81.0921335,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Savannah",
+                "confidence": 0,
+                "latitude": 32.0790074,
+                "longitude": -81.0921335,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Forest",
+                "confidence": 0,
+                "latitude": 32.3645888,
+                "longitude": -89.4742348,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Windsor",
+                "confidence": 0,
+                "latitude": 41.8525984,
+                "longitude": -72.6437022,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Hinesville",
+                "confidence": 0,
+                "latitude": 31.8477347,
+                "longitude": -81.5960705,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Glenville",
+                "confidence": 0,
+                "latitude": 43.572754,
+                "longitude": -93.2814262,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Glennvilles -> Glenville)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Helena",
+                "confidence": 0,
+                "latitude": 46.5927425,
+                "longitude": -112.036277,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Helenae -> Helena)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Paltan",
+                "confidence": 0,
+                "latitude": 37.1504846,
+                "longitude": 126.8857646,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Altan -> Paltan)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Tahla",
+                "confidence": 0,
+                "latitude": 34.050634,
+                "longitude": -4.4224,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (taha -> Tahla)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Ashburn",
+                "confidence": 0,
+                "latitude": 39.0437192,
+                "longitude": -77.4874899,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Alma",
+                "confidence": 0,
+                "latitude": 31.5393701,
+                "longitude": -82.4623557,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Fredericia",
+                "confidence": 0,
+                "latitude": 55.565268,
+                "longitude": 9.7562169,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo ('FREDERICA -> Fredericia)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Forst",
+                "confidence": 0,
+                "latitude": 51.7438586,
+                "longitude": 14.6455395,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (FORT -> Forst)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Brunswick",
+                "confidence": 0,
+                "latitude": 52.2646577,
+                "longitude": 10.5236066,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Brunswic -> Brunswick)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Nashville",
+                "confidence": 0,
+                "latitude": 36.1622767,
+                "longitude": -86.7742984,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Kingsland",
+                "confidence": 0,
+                "latitude": 30.7999563,
+                "longitude": -81.6898261,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (ingsland -> Kingsland)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Cumberland",
+                "confidence": 0,
+                "latitude": 39.6526498,
+                "longitude": -78.762383,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Lakeland",
+                "confidence": 0,
+                "latitude": 28.0394654,
+                "longitude": -81.9498042,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (akeland -> Lakeland)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Mosta",
+                "confidence": 0,
+                "latitude": 35.9079178,
+                "longitude": 14.4241508,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (osta -> Mosta)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Jacksonville",
+                "confidence": 0,
+                "latitude": 30.3321838,
+                "longitude": -81.655651,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Boston",
+                "confidence": 0,
+                "latitude": 42.3554334,
+                "longitude": -71.060511,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Boston: -> Boston)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Jacksonville",
+                "confidence": 0,
+                "latitude": 30.3321838,
+                "longitude": -81.655651,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Baldwin",
+                "confidence": 0,
+                "latitude": 40.3381252,
+                "longitude": -79.9789405,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Baldwina -> Baldwin)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Madison",
+                "confidence": 0,
+                "latitude": 43.074761,
+                "longitude": -89.3837613,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Madiso -> Madison)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Mon",
+                "confidence": 0,
+                "latitude": 17.0832546,
+                "longitude": 97.3337305,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Greenville",
+                "confidence": 0,
+                "latitude": 34.851354,
+                "longitude": -82.3984882,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (eenville -> Greenville)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Maros",
+                "confidence": 0,
+                "latitude": -4.9655024,
+                "longitude": 119.69284341781065,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (MARCOS -> Maros)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Springs",
+                "confidence": 0,
+                "latitude": 41.0162112,
+                "longitude": -72.1592444,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "San",
+                "confidence": 0,
+                "latitude": 11.8444164,
+                "longitude": -3.2748386,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Clive",
+                "confidence": 0,
+                "latitude": 52.4771595,
+                "longitude": -113.4412968,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Live -> Clive)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Green",
+                "confidence": 0,
+                "latitude": 39.427776,
+                "longitude": -97.001961,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Mon",
+                "confidence": 0,
+                "latitude": 17.0832546,
+                "longitude": 97.3337305,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Marks",
+                "confidence": 0,
+                "latitude": 51.7069911,
+                "longitude": 46.7483653,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (arks -> Marks)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Matanzas",
+                "confidence": 0,
+                "latitude": 23.0469236,
+                "longitude": -81.5783032,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Forst",
+                "confidence": 0,
+                "latitude": 51.7438586,
+                "longitude": 14.6455395,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (FORT -> Forst)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Alaca",
+                "confidence": 0,
+                "latitude": 40.1690118,
+                "longitude": 34.8414772,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Alac  -> Alaca)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Gainesville",
+                "confidence": 0,
+                "latitude": 29.6519684,
+                "longitude": -82.3249846,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Ormond Beach",
+                "confidence": 0,
+                "latitude": 29.2854132,
+                "longitude": -81.0557921,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Dayton",
+                "confidence": 0,
+                "latitude": 39.7589478,
+                "longitude": -84.1916069,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Daytona -> Dayton)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Smyrna",
+                "confidence": 0,
+                "latitude": 39.2998339,
+                "longitude": -75.6046494,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Aland",
+                "confidence": 0,
+                "latitude": 60.2166218,
+                "longitude": 19.9438638,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Land -> Aland)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Leesburg",
+                "confidence": 0,
+                "latitude": 39.1154506,
+                "longitude": -77.5645607,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Eustis",
+                "confidence": 0,
+                "latitude": 28.8527675,
+                "longitude": -81.6853534,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Sanford",
+                "confidence": 0,
+                "latitude": 35.4798757,
+                "longitude": -79.1802994,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Titusville",
+                "confidence": 0,
+                "latitude": 28.6126236,
+                "longitude": -80.8079545,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Crystal",
+                "confidence": 0,
+                "latitude": 45.031823,
+                "longitude": -93.3606072,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Inverness",
+                "confidence": 0,
+                "latitude": 57.4790124,
+                "longitude": -4.225739,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Inverness_ -> Inverness)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Pace",
+                "confidence": 0,
+                "latitude": 48.4454551,
+                "longitude": -0.0039061,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (SPACE -> Pace)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Apopka",
+                "confidence": 0,
+                "latitude": 28.6732806,
+                "longitude": -81.5116471,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Apopka; -> Apopka)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Tala",
+                "confidence": 0,
+                "latitude": 34.8361333,
+                "longitude": 32.4309763,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Tsala -> Tala)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Banan",
+                "confidence": 0,
+                "latitude": 29.4043601,
+                "longitude": 106.5368478,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Banana -> Banan)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Lede",
+                "confidence": 0,
+                "latitude": 50.9662645,
+                "longitude": 3.9775505,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (ledge -> Lede)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Kissimmee",
+                "confidence": 0,
+                "latitude": 28.2918995,
+                "longitude": -81.4075838,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (issimmee -> Kissimmee)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Melbourne",
+                "confidence": 0,
+                "latitude": 28.0785034,
+                "longitude": -80.6077908,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            }
+        ]
+    },
+    {
+        "image_id": "9035000_h5_w12",
+        "filename": "9035000_h5_w12.png",
+        "phrases": [
+            {
+                "text": "Atar",
+                "confidence": 0,
+                "latitude": 20.5181943,
+                "longitude": -13.0543928,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Adrar",
+                "confidence": 0,
+                "latitude": 27.873203,
+                "longitude": -0.2876021,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Kidal",
+                "confidence": 0,
+                "latitude": 19.802089,
+                "longitude": 0.725312457,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Nouakchott",
+                "confidence": 0,
+                "latitude": 18.0792379,
+                "longitude": -15.9780071,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Nouakehott -> Nouakchott)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Bamban",
+                "confidence": 0,
+                "latitude": 15.2733238,
+                "longitude": 120.5672692,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Bamba -> Bamban)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Kita",
+                "confidence": 0,
+                "latitude": 35.7528821,
+                "longitude": 139.7338331,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo ( Kifta -> Kita)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Gao",
+                "confidence": 0,
+                "latitude": 17.00244,
+                "longitude": -0.099115448,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Verden",
+                "confidence": 0,
+                "latitude": 52.9219073,
+                "longitude": 9.2286737,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Verde -> Verden)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Kayes",
+                "confidence": 0,
+                "latitude": 13.8001844,
+                "longitude": -10.224554815,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Mopti",
+                "confidence": 0,
+                "latitude": 14.514489,
+                "longitude": -3.64645806,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Dori",
+                "confidence": 0,
+                "latitude": 14.0327651,
+                "longitude": -0.0348286,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Niamey",
+                "confidence": 0,
+                "latitude": 13.524834,
+                "longitude": 2.109823,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Bathurst",
+                "confidence": 0,
+                "latitude": 13.45535,
+                "longitude": -16.575646,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Bamako",
+                "confidence": 0,
+                "latitude": 12.649319,
+                "longitude": -8.000337,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Ouagadougou",
+                "confidence": 0,
+                "latitude": 12.3681873,
+                "longitude": -1.5270944,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Bissau",
+                "confidence": 0,
+                "latitude": 11.861324,
+                "longitude": -15.583055,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Koudougou",
+                "confidence": 0,
+                "latitude": 12.2514911,
+                "longitude": -2.3652267,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Kindia",
+                "confidence": 0,
+                "latitude": 10.0368,
+                "longitude": -12.8260215,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Siguiri",
+                "confidence": 0,
+                "latitude": 11.4195265,
+                "longitude": -9.1751513,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Conakry",
+                "confidence": 0,
+                "latitude": 9.5170602,
+                "longitude": -13.6998434,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Serra",
+                "confidence": 0,
+                "latitude": 39.6851966,
+                "longitude": -0.4281287,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (SIerRA -> Serra)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Korhogo",
+                "confidence": 0,
+                "latitude": 9.4580698,
+                "longitude": -5.6316293,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Tamale",
+                "confidence": 0,
+                "latitude": 9.4051992,
+                "longitude": -0.8423986,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Freetown",
+                "confidence": 0,
+                "latitude": 42.5230823,
+                "longitude": -76.0182958,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Serra",
+                "confidence": 0,
+                "latitude": 39.6851966,
+                "longitude": -0.4281287,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (SIERRA -> Serra)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Kumasi",
+                "confidence": 0,
+                "latitude": 6.6985605,
+                "longitude": -1.6233086,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Iba",
+                "confidence": 0,
+                "latitude": 15.3264614,
+                "longitude": 119.9801043,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Serra",
+                "confidence": 0,
+                "latitude": 39.6851966,
+                "longitude": -0.4281287,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (SIERRA -> Serra)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Monrovia",
+                "confidence": 0,
+                "latitude": 34.1483499,
+                "longitude": -118.0014517,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Liberia",
+                "confidence": 0,
+                "latitude": 5.7499721,
+                "longitude": -9.3658524,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Abidjan",
+                "confidence": 0,
+                "latitude": 5.4091179,
+                "longitude": -4.0422099,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Abidjan,  -> Abidjan)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Haren",
+                "confidence": 0,
+                "latitude": 52.7905619,
+                "longitude": 7.2400267,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Hare -> Haren)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Basi",
+                "confidence": 0,
+                "latitude": 21.7773562,
+                "longitude": 79.71891013608553,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (BASIN -> Basi)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Sekondi",
+                "confidence": 0,
+                "latitude": 4.927456,
+                "longitude": -1.7490216,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Palmas",
+                "confidence": 0,
+                "latitude": 18.441531050000002,
+                "longitude": -66.14365187209029,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Basi",
+                "confidence": 0,
+                "latitude": 21.7773562,
+                "longitude": 79.71891013608553,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (BASIN -> Basi)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Basi",
+                "confidence": 0,
+                "latitude": 21.7773562,
+                "longitude": 79.71891013608553,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (BASIN -> Basi)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9053003_h6_w6",
+        "filename": "9053003_h6_w6.png",
+        "phrases": [
+            {
+                "text": "Gero",
+                "confidence": 0,
+                "latitude": 35.8064271,
+                "longitude": 137.2433187,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Tak ",
+                "confidence": 0,
+                "latitude": 36.5940732,
+                "longitude": 69.7938996,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Luton",
+                "confidence": 0,
+                "latitude": 51.8784385,
+                "longitude": -0.4152837,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (PLUTON -> Luton)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9094002_h5_w10",
+        "filename": "9094002_h5_w10.png",
+        "phrases": [
+            {
+                "text": "Oakland",
+                "confidence": 0,
+                "latitude": 37.8044557,
+                "longitude": -122.271356,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (OAKLAN -> Oakland)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Arris",
+                "confidence": 0,
+                "latitude": 42.8875912,
+                "longitude": 0.3983792,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (RRIS -> Arris)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Howard",
+                "confidence": 0,
+                "latitude": 37.4703117,
+                "longitude": -96.2636066,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (HOWAARD -> Howard)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Lakeside ",
+                "confidence": 0,
+                "latitude": 42.6214633,
+                "longitude": -95.1744757,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Sanford",
+                "confidence": 0,
+                "latitude": 35.4798757,
+                "longitude": -79.1802994,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (STANFORD -> Sanford)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Marina",
+                "confidence": 0,
+                "latitude": 36.6844029,
+                "longitude": -121.802173,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Marina",
+                "confidence": 0,
+                "latitude": 36.6844029,
+                "longitude": -121.802173,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Alameda",
+                "confidence": 0,
+                "latitude": 37.7652076,
+                "longitude": -122.241635,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Alameda",
+                "confidence": 0,
+                "latitude": 37.7652076,
+                "longitude": -122.241635,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Montgomery",
+                "confidence": 0,
+                "latitude": 32.37742,
+                "longitude": -86.3091683,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (MoNtaoMERY -> Montgomery)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Marina",
+                "confidence": 0,
+                "latitude": 36.6844029,
+                "longitude": -121.802173,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Warud",
+                "confidence": 0,
+                "latitude": 21.473109,
+                "longitude": 78.2728518,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (WARD -> Warud)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Alameda",
+                "confidence": 0,
+                "latitude": 37.7652076,
+                "longitude": -122.241635,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Diest",
+                "confidence": 0,
+                "latitude": 50.9844318,
+                "longitude": 5.0504341,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Dist -> Diest)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Meda",
+                "confidence": 0,
+                "latitude": 45.6625046,
+                "longitude": 9.1567532,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Oakland",
+                "confidence": 0,
+                "latitude": 37.8044557,
+                "longitude": -122.271356,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            }
+        ]
+    },
+    {
+        "image_id": "9096002_h4_w8",
+        "filename": "9096002_h4_w8.png",
+        "phrases": [
+            {
+                "text": "Arris",
+                "confidence": 0,
+                "latitude": 42.8875912,
+                "longitude": 0.3983792,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (#ARRIS -> Arris)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Orlando",
+                "confidence": 0,
+                "latitude": 28.5421109,
+                "longitude": -81.3790304,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (city -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Downtown",
+                "confidence": 0,
+                "latitude": 34.047996,
+                "longitude": -118.2521002,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Buea",
+                "confidence": 0,
+                "latitude": 4.1567895,
+                "longitude": 9.2315915,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (BUENA -> Buea)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Vista",
+                "confidence": 0,
+                "latitude": 33.2021284,
+                "longitude": -117.2424787,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (~VISTA -> Vista)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Davenport",
+                "confidence": 0,
+                "latitude": 41.5235808,
+                "longitude": -90.5770967,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Orlando",
+                "confidence": 0,
+                "latitude": 28.5421109,
+                "longitude": -81.3790304,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (city -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Kissimmee",
+                "confidence": 0,
+                "latitude": 28.2918995,
+                "longitude": -81.4075838,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Asha",
+                "confidence": 0,
+                "latitude": 54.9908896,
+                "longitude": 57.2780531,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (WASHA -> Asha)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Florida",
+                "confidence": 0,
+                "latitude": 27.7567667,
+                "longitude": -81.4639835,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Cypress",
+                "confidence": 0,
+                "latitude": 33.8248235,
+                "longitude": -118.0399368,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Sebastian",
+                "confidence": 0,
+                "latitude": 26.3428491,
+                "longitude": -97.790273,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            }
+        ]
+    },
+    {
+        "image_id": "9103002_h2_w6",
+        "filename": "9103002_h2_w6.png",
+        "phrases": [
+            {
+                "text": "Hamar",
+                "confidence": 0,
+                "latitude": 61.0014937,
+                "longitude": 11.16479641006573,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (HarmAR -> Hamar)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Holiday",
+                "confidence": 0,
+                "latitude": 28.1879273,
+                "longitude": -82.740074,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Verona",
+                "confidence": 0,
+                "latitude": 43.8058478,
+                "longitude": -82.8810508,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Highland",
+                "confidence": 0,
+                "latitude": 39.1802516,
+                "longitude": -83.6304344,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Highland",
+                "confidence": 0,
+                "latitude": 39.1802516,
+                "longitude": -83.6304344,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Morningside",
+                "confidence": 0,
+                "latitude": -26.0780556,
+                "longitude": 28.0644444,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (NorNingside -> Morningside)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Liberty",
+                "confidence": 0,
+                "latitude": 39.246479,
+                "longitude": -94.419079,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Bloomfield",
+                "confidence": 0,
+                "latitude": 40.7511569,
+                "longitude": -92.4145672,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Aiken",
+                "confidence": 0,
+                "latitude": 33.5616173,
+                "longitude": -81.7224579,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (AKEN -> Aiken)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Hille",
+                "confidence": 0,
+                "latitude": 52.3360492,
+                "longitude": 8.7452571,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Hill -> Hille)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Holiday",
+                "confidence": 0,
+                "latitude": 28.1879273,
+                "longitude": -82.740074,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Liberty",
+                "confidence": 0,
+                "latitude": 39.246479,
+                "longitude": -94.419079,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Hille",
+                "confidence": 0,
+                "latitude": 52.3360492,
+                "longitude": 8.7452571,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (HiLl -> Hille)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9105002_h2_w6",
+        "filename": "9105002_h2_w6.png",
+        "phrases": [
+            {
+                "text": "Bay",
+                "confidence": 0,
+                "latitude": 35.7428864,
+                "longitude": -90.5625134,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Natal",
+                "confidence": 0,
+                "latitude": -5.805398,
+                "longitude": -35.2080905,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (NATL -> Natal)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Fargo",
+                "confidence": 0,
+                "latitude": 46.877229,
+                "longitude": -96.789821,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Duluth",
+                "confidence": 0,
+                "latitude": 46.7838287,
+                "longitude": -92.1052679,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Natal",
+                "confidence": 0,
+                "latitude": -5.805398,
+                "longitude": -35.2080905,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (NATL -> Natal)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Xindian",
+                "confidence": 0,
+                "latitude": 24.9673935,
+                "longitude": 121.5419418,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (INDIAN -> Xindian)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Bismarck",
+                "confidence": 0,
+                "latitude": 46.808327,
+                "longitude": -100.783739,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Sirte",
+                "confidence": 0,
+                "latitude": 31.2059625,
+                "longitude": 16.5836206,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (SITE -> Sirte)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Minneapolis",
+                "confidence": 0,
+                "latitude": 44.9772995,
+                "longitude": -93.2654692,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Rivera",
+                "confidence": 0,
+                "latitude": 45.1147797,
+                "longitude": 7.4137652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (RIVER -> Rivera)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Brookings",
+                "confidence": 0,
+                "latitude": 44.311461,
+                "longitude": -96.79844,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Ardea",
+                "confidence": 0,
+                "latitude": 41.608712,
+                "longitude": 12.519382,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (AREA -> Ardea)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Mankato",
+                "confidence": 0,
+                "latitude": 44.1658533,
+                "longitude": -94.0028013,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Rochester",
+                "confidence": 0,
+                "latitude": 43.157285,
+                "longitude": -77.615214,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Natal",
+                "confidence": 0,
+                "latitude": -5.805398,
+                "longitude": -35.2080905,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (NATL -> Natal)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Mon",
+                "confidence": 0,
+                "latitude": 17.0832546,
+                "longitude": 97.3337305,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Waterloo",
+                "confidence": 0,
+                "latitude": 43.4652699,
+                "longitude": -80.5222961,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (WATERLOOE -> Waterloo)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Ames",
+                "confidence": 0,
+                "latitude": 42.0267567,
+                "longitude": -93.6170448,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Rivera",
+                "confidence": 0,
+                "latitude": 45.1147797,
+                "longitude": 7.4137652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (RiveR -> Rivera)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Omaha",
+                "confidence": 0,
+                "latitude": 41.2587459,
+                "longitude": -95.9383758,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Sirte",
+                "confidence": 0,
+                "latitude": 31.2059625,
+                "longitude": 16.5836206,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Site -> Sirte)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (city -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Davenport",
+                "confidence": 0,
+                "latitude": 41.5235808,
+                "longitude": -90.5770967,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Des Moines",
+                "confidence": 0,
+                "latitude": 41.5868654,
+                "longitude": -93.6249494,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            }
+        ]
+    },
+    {
+        "image_id": "9156000_h13_w4",
+        "filename": "9156000_h13_w4.png",
+        "phrases": [
+            {
+                "text": "Waterville",
+                "confidence": 0,
+                "latitude": 44.5505773,
+                "longitude": -69.6303174,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Grove",
+                "confidence": 0,
+                "latitude": 53.5278975,
+                "longitude": 10.4947533,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Gove -> Grove)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Wayne",
+                "confidence": 0,
+                "latitude": 41.6264414,
+                "longitude": -75.3045103,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (wayney -> Wayne)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Hazelwood",
+                "confidence": 0,
+                "latitude": 38.7761446,
+                "longitude": -90.3715909,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (CITY -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Hillsboro",
+                "confidence": 0,
+                "latitude": 45.5228939,
+                "longitude": -122.989827,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Dillsboro -> Hillsboro)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9173000_h23_w3",
+        "filename": "9173000_h23_w3.png",
+        "phrases": [
+            {
+                "text": "Saint George",
+                "confidence": 0,
+                "latitude": 12.0535331,
+                "longitude": -61.751805,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (SAINTGEORGE -> Saint George)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Staten Island",
+                "confidence": 0,
+                "latitude": 40.5834557,
+                "longitude": -74.1496048,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Staten Island_ -> Staten Island)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Hamilton",
+                "confidence": 0,
+                "latitude": 43.2560802,
+                "longitude": -79.8728583,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Hamilton) -> Hamilton)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Dyker Heights",
+                "confidence": 0,
+                "latitude": 40.6204766,
+                "longitude": -74.0117343,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo ((Dyker Heights) -> Dyker Heights)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Wadsworth",
+                "confidence": 0,
+                "latitude": 41.0256101,
+                "longitude": -81.7298519,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Wadsworth) -> Wadsworth)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Bay",
+                "confidence": 0,
+                "latitude": 35.7428864,
+                "longitude": -90.5625134,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            }
+        ]
+    },
+    {
+        "image_id": "9191003_h7_w5",
+        "filename": "9191003_h7_w5.png",
+        "phrases": [
+            {
+                "text": "Eau Claire",
+                "confidence": 0,
+                "latitude": 44.811349,
+                "longitude": -91.4984941,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Hilliard",
+                "confidence": 0,
+                "latitude": 30.691068,
+                "longitude": -81.9173334,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Hilliards -> Hilliard)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Washington ",
+                "confidence": 0,
+                "latitude": 38.8950368,
+                "longitude": -77.0365427,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Buin",
+                "confidence": 0,
+                "latitude": -33.7319741,
+                "longitude": -70.7419619,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Bruin -> Buin)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Petrolina",
+                "confidence": 0,
+                "latitude": -9.3817334,
+                "longitude": -40.4968875,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Petrolia -> Petrolina)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Saint Charles",
+                "confidence": 0,
+                "latitude": 38.783855,
+                "longitude": -90.481677,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Kearns",
+                "confidence": 0,
+                "latitude": 40.6528603,
+                "longitude": -112.004618,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Karns -> Kearns)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Sligo",
+                "confidence": 0,
+                "latitude": 41.1081472,
+                "longitude": -79.491149,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Rivera",
+                "confidence": 0,
+                "latitude": 45.1147797,
+                "longitude": 7.4137652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (River -> Rivera)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9255000_h10_w6",
+        "filename": "9255000_h10_w6.png",
+        "phrases": [
+            {
+                "text": "Central",
+                "confidence": 0,
+                "latitude": 7.3819490000000005,
+                "longitude": 80.72342798602898,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Rivera",
+                "confidence": 0,
+                "latitude": 45.1147797,
+                "longitude": 7.4137652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (River -> Rivera)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Rivne",
+                "confidence": 0,
+                "latitude": 50.6196175,
+                "longitude": 26.2513165,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Rive  -> Rivne)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Rivera",
+                "confidence": 0,
+                "latitude": 45.1147797,
+                "longitude": 7.4137652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (River -> Rivera)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9260000_h14_w4",
+        "filename": "9260000_h14_w4.png",
+        "phrases": [
+            {
+                "text": "Belgrade",
+                "confidence": 0,
+                "latitude": 44.8178131,
+                "longitude": 20.4568974,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Willmar",
+                "confidence": 0,
+                "latitude": 45.1219492,
+                "longitude": -95.0435373,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Shakopee",
+                "confidence": 0,
+                "latitude": 44.7980186,
+                "longitude": -93.5268986,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            }
+        ]
+    },
+    {
+        "image_id": "9267000_h10_w5",
+        "filename": "9267000_h10_w5.png",
+        "phrases": [
+            {
+                "text": "Xindian",
+                "confidence": 0,
+                "latitude": 24.9673935,
+                "longitude": 121.5419418,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Indian -> Xindian)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Huntsville",
+                "confidence": 0,
+                "latitude": 34.729847,
+                "longitude": -86.5859011,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Lewiston",
+                "confidence": 0,
+                "latitude": 46.4195913,
+                "longitude": -117.0216144,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Lewistown -> Lewiston)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9309000_h8_w11",
+        "filename": "9309000_h8_w11.png",
+        "phrases": [
+            {
+                "text": "Green Valley",
+                "confidence": 0,
+                "latitude": 34.6163079,
+                "longitude": -118.4034763,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Green Valle) -> Green Valley)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Paks",
+                "confidence": 0,
+                "latitude": 46.6229468,
+                "longitude": 18.8589364,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Peaks -> Paks)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Bear",
+                "confidence": 0,
+                "latitude": 39.6292788,
+                "longitude": -75.6582628,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Runing",
+                "confidence": 0,
+                "latitude": 33.010252,
+                "longitude": 114.3507823,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Running -> Runing)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Seven Oaks",
+                "confidence": 0,
+                "latitude": 30.8521374,
+                "longitude": -94.8671545,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Springs",
+                "confidence": 0,
+                "latitude": 41.0162112,
+                "longitude": -72.1592444,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Bear",
+                "confidence": 0,
+                "latitude": 39.6292788,
+                "longitude": -75.6582628,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "San",
+                "confidence": 0,
+                "latitude": 11.8444164,
+                "longitude": -3.2748386,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Morong",
+                "confidence": 0,
+                "latitude": 14.5151374,
+                "longitude": 121.2380858,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Morongo -> Morong)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Basel",
+                "confidence": 0,
+                "latitude": 47.5581077,
+                "longitude": 7.5878261,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Base -> Basel)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Menton",
+                "confidence": 0,
+                "latitude": 43.7753495,
+                "longitude": 7.5029213,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Mentone -> Menton)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Redlands",
+                "confidence": 0,
+                "latitude": 34.0550328,
+                "longitude": -117.1827445,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Springs",
+                "confidence": 0,
+                "latitude": 41.0162112,
+                "longitude": -72.1592444,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Banning",
+                "confidence": 0,
+                "latitude": 33.9255685,
+                "longitude": -116.875289,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Palm Springs",
+                "confidence": 0,
+                "latitude": 33.8246269,
+                "longitude": -116.540303,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Beaumont",
+                "confidence": 0,
+                "latitude": 30.0829344,
+                "longitude": -94.0984277,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Palm Springs",
+                "confidence": 0,
+                "latitude": 33.8246269,
+                "longitude": -116.540303,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Palm_Springs -> Palm Springs)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Palm Springs",
+                "confidence": 0,
+                "latitude": 33.8246269,
+                "longitude": -116.540303,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Palm Spring -> Palm Springs)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Perris",
+                "confidence": 0,
+                "latitude": 33.7818729,
+                "longitude": -117.2298477,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "San Jacinto",
+                "confidence": 0,
+                "latitude": 33.7839664,
+                "longitude": -116.9589086,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Hemet",
+                "confidence": 0,
+                "latitude": 33.7475203,
+                "longitude": -116.9719684,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Winchester",
+                "confidence": 0,
+                "latitude": 39.1852184,
+                "longitude": -78.1652404,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Rivas",
+                "confidence": 0,
+                "latitude": 45.5858,
+                "longitude": 4.24753,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Riva -> Rivas)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9361000_h5_w12",
+        "filename": "9361000_h5_w12.png",
+        "phrases": [
+            {
+                "text": "Duncan",
+                "confidence": 0,
+                "latitude": 48.7786872,
+                "longitude": -123.7080446,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Duncans -> Duncan)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Rivera",
+                "confidence": 0,
+                "latitude": 45.1147797,
+                "longitude": 7.4137652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (River -> Rivera)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Madison",
+                "confidence": 0,
+                "latitude": 43.074761,
+                "longitude": -89.3837613,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Florida",
+                "confidence": 0,
+                "latitude": 27.7567667,
+                "longitude": -81.4639835,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Paris",
+                "confidence": 0,
+                "latitude": 48.8534951,
+                "longitude": 2.3483915,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Evansville",
+                "confidence": 0,
+                "latitude": 37.970495,
+                "longitude": -87.5715641,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Perry",
+                "confidence": 0,
+                "latitude": 32.4586695,
+                "longitude": -83.7319658,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Centralia",
+                "confidence": 0,
+                "latitude": 38.5250491,
+                "longitude": -89.1334037,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Centraliat -> Centralia)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Hille",
+                "confidence": 0,
+                "latitude": 52.3360492,
+                "longitude": 8.7452571,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Hill -> Hille)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Mexico",
+                "confidence": 0,
+                "latitude": 23.6585116,
+                "longitude": -102.0077097,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (MEXICOr -> Mexico)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Salt",
+                "confidence": 0,
+                "latitude": 41.9741672,
+                "longitude": 2.7949886,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Along",
+                "confidence": 0,
+                "latitude": 28.1698002,
+                "longitude": 94.79854,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Long -> Along)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Thomson",
+                "confidence": 0,
+                "latitude": 33.4663248,
+                "longitude": -82.5026089,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Thompson -> Thomson)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Chicago",
+                "confidence": 0,
+                "latitude": 41.8755616,
+                "longitude": -87.6244212,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Benton",
+                "confidence": 0,
+                "latitude": 34.5645372,
+                "longitude": -92.586828,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9526003_h5_w11",
+        "filename": "9526003_h5_w11.png",
+        "phrases": [
+            {
+                "text": "Pittsburgh",
+                "confidence": 0,
+                "latitude": 40.4416941,
+                "longitude": -79.9900861,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Philadelphia",
+                "confidence": 0,
+                "latitude": 39.9527237,
+                "longitude": -75.1635262,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Philadelphiac -> Philadelphia)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Wilmington",
+                "confidence": 0,
+                "latitude": 39.7459468,
+                "longitude": -75.546589,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Baltimore",
+                "confidence": 0,
+                "latitude": 39.2908816,
+                "longitude": -76.610759,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Annapolis",
+                "confidence": 0,
+                "latitude": 38.9786401,
+                "longitude": -76.492786,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (SANNAPOLIS -> Annapolis)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Vernon",
+                "confidence": 0,
+                "latitude": 34.007135,
+                "longitude": -118.22525,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Springs",
+                "confidence": 0,
+                "latitude": 41.0162112,
+                "longitude": -72.1592444,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Springs",
+                "confidence": 0,
+                "latitude": -26.2550033,
+                "longitude": 28.4373147,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (SPringsv -> Springs)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Raleigh",
+                "confidence": 0,
+                "latitude": 35.7803977,
+                "longitude": -78.6390989,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Baitu",
+                "confidence": 0,
+                "latitude": 28.2080929,
+                "longitude": 115.9847595,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (bitu -> Baitu)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Wakefield",
+                "confidence": 0,
+                "latitude": 42.506484,
+                "longitude": -71.0728306,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Stratford",
+                "confidence": 0,
+                "latitude": 52.1927803,
+                "longitude": -1.70634,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (StrATFORDO -> Stratford)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Shenandoah",
+                "confidence": 0,
+                "latitude": 40.7655468,
+                "longitude": -95.3723535,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Potomac",
+                "confidence": 0,
+                "latitude": 39.017936,
+                "longitude": -77.2094542,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Richmond",
+                "confidence": 0,
+                "latitude": 37.5385087,
+                "longitude": -77.43428,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Jamestown",
+                "confidence": 0,
+                "latitude": 42.0965167,
+                "longitude": -79.2380322,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (QJAMESTOWN -> Jamestown)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9530001_h5_w11",
+        "filename": "9530001_h5_w11.png",
+        "phrases": [
+            {
+                "text": "Sulphur",
+                "confidence": 0,
+                "latitude": 30.2365943,
+                "longitude": -93.3773783,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Lexington",
+                "confidence": 0,
+                "latitude": 38.0464066,
+                "longitude": -84.4970393,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Lexigton -> Lexington)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Spring",
+                "confidence": 0,
+                "latitude": 45.9745886,
+                "longitude": 23.7773831,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Sprig -> Spring)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Rizal",
+                "confidence": 0,
+                "latitude": 14.65,
+                "longitude": 121.25,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (RIAL -> Rizal)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Roanoke",
+                "confidence": 0,
+                "latitude": 37.270973,
+                "longitude": -79.9414313,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Bristol",
+                "confidence": 0,
+                "latitude": 51.4538022,
+                "longitude": -2.5972985,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Bristole -> Bristol)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Salem",
+                "confidence": 0,
+                "latitude": 44.9391565,
+                "longitude": -123.033121,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Johnston",
+                "confidence": 0,
+                "latitude": 41.6731523,
+                "longitude": -93.6973395,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Johnson -> Johnston)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Raleigh",
+                "confidence": 0,
+                "latitude": 35.7803977,
+                "longitude": -78.6390989,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Hickory",
+                "confidence": 0,
+                "latitude": 35.7333312,
+                "longitude": -81.3442915,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Fort Bragg",
+                "confidence": 0,
+                "latitude": 39.4436579,
+                "longitude": -123.8057607,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Ft Bragg -> Fort Bragg)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Murray",
+                "confidence": 0,
+                "latitude": 36.6106122,
+                "longitude": -88.3021092,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Macon",
+                "confidence": 0,
+                "latitude": 32.8406946,
+                "longitude": -83.6324022,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Richmond",
+                "confidence": 0,
+                "latitude": 37.5385087,
+                "longitude": -77.43428,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Lexington",
+                "confidence": 0,
+                "latitude": 38.0464066,
+                "longitude": -84.4970393,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (LexingtonQ -> Lexington)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Lynchburg",
+                "confidence": 0,
+                "latitude": 37.4137536,
+                "longitude": -79.1422464,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Petersburg",
+                "confidence": 0,
+                "latitude": 59.938732,
+                "longitude": 30.316229,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Comal",
+                "confidence": 0,
+                "latitude": 29.7979704,
+                "longitude": -98.2690787,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (COAL -> Comal)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Minning",
+                "confidence": 0,
+                "latitude": 38.2539,
+                "longitude": 105.969,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (MINING -> Minning)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Cumberland",
+                "confidence": 0,
+                "latitude": 39.6526498,
+                "longitude": -78.762383,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (UMBERLAND -> Cumberland)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Lacey",
+                "confidence": 0,
+                "latitude": 47.0263876,
+                "longitude": -122.8072257,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (LACE -> Lacey)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Kingsport",
+                "confidence": 0,
+                "latitude": 36.550238,
+                "longitude": -82.5594293,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Green",
+                "confidence": 0,
+                "latitude": 39.427776,
+                "longitude": -97.001961,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (GREENE -> Green)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Mitchell",
+                "confidence": 0,
+                "latitude": 43.70953,
+                "longitude": -98.025379,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Pinehurst",
+                "confidence": 0,
+                "latitude": 30.1071543,
+                "longitude": -93.7746117,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Asheville",
+                "confidence": 0,
+                "latitude": 35.595363,
+                "longitude": -82.5508407,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Gastonia",
+                "confidence": 0,
+                "latitude": 35.2622654,
+                "longitude": -81.1838186,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Charlotte ",
+                "confidence": 0,
+                "latitude": 35.2272086,
+                "longitude": -80.8430827,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Spartanburg",
+                "confidence": 0,
+                "latitude": 34.9498007,
+                "longitude": -81.9320157,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Columbia",
+                "confidence": 0,
+                "latitude": 34.000754,
+                "longitude": -81.0352313,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Aiken",
+                "confidence": 0,
+                "latitude": 33.5616173,
+                "longitude": -81.7224579,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Augusta",
+                "confidence": 0,
+                "latitude": 33.4709714,
+                "longitude": -81.9748429,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Charleston",
+                "confidence": 0,
+                "latitude": 32.7884363,
+                "longitude": -79.9399309,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo ('Charleston -> Charleston)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9530002_h8_w10",
+        "filename": "9530002_h8_w10.png",
+        "phrases": [
+            {
+                "text": "Plymouth",
+                "confidence": 0,
+                "latitude": 41.9583799,
+                "longitude": -70.6673851,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Williamsport",
+                "confidence": 0,
+                "latitude": 41.2411556,
+                "longitude": -77.0011096,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Montgomery",
+                "confidence": 0,
+                "latitude": 32.37742,
+                "longitude": -86.3091683,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Berwick",
+                "confidence": 0,
+                "latitude": 41.0602024,
+                "longitude": -76.2461259,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Hale",
+                "confidence": 0,
+                "latitude": 39.6036334,
+                "longitude": -93.3424307,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Hazle -> Hale)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Danville",
+                "confidence": 0,
+                "latitude": 40.125222,
+                "longitude": -87.6304614,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Carmel",
+                "confidence": 0,
+                "latitude": 36.5552656,
+                "longitude": -121.923278,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Philipsburg",
+                "confidence": 0,
+                "latitude": 18.0250713,
+                "longitude": -63.0483073,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo ('Phillipsburg -> Philipsburg)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Middelburg",
+                "confidence": 0,
+                "latitude": 51.4996784,
+                "longitude": 3.6137371,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Middleburg -> Middelburg)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Tremont",
+                "confidence": 0,
+                "latitude": 40.6284222,
+                "longitude": -76.3871768,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Porta",
+                "confidence": 0,
+                "latitude": 42.5260507,
+                "longitude": 1.8256362,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Port -> Porta)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Hamburg",
+                "confidence": 0,
+                "latitude": 53.550341,
+                "longitude": 10.000654,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Newport",
+                "confidence": 0,
+                "latitude": 41.4899827,
+                "longitude": -71.3137707,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Seminole",
+                "confidence": 0,
+                "latitude": 32.7167351,
+                "longitude": -102.6490967,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Hobbs",
+                "confidence": 0,
+                "latitude": 32.7027017,
+                "longitude": -103.1355302,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (obbs -> Hobbs)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "La Mesa",
+                "confidence": 0,
+                "latitude": 32.7678288,
+                "longitude": -117.0230839,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Lamesa -> La Mesa)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Time",
+                "confidence": 0,
+                "latitude": 39.5614368,
+                "longitude": -90.7242938,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Time` -> Time)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Shafter",
+                "confidence": 0,
+                "latitude": 35.501461,
+                "longitude": -119.273682,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Merke",
+                "confidence": 0,
+                "latitude": 51.8002387,
+                "longitude": 14.9146759,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Merkel -> Merke)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Shenandoah",
+                "confidence": 0,
+                "latitude": 40.7655468,
+                "longitude": -95.3723535,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (IShenandoah' -> Shenandoah)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Rivera",
+                "confidence": 0,
+                "latitude": 45.1147797,
+                "longitude": 7.4137652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (River -> Rivera)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Lewiston",
+                "confidence": 0,
+                "latitude": 46.4195913,
+                "longitude": -117.0216144,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Lewistown -> Lewiston)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Sweetwater",
+                "confidence": 0,
+                "latitude": 32.4709519,
+                "longitude": -100.405938,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (iSweetwater -> Sweetwater)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9532003_h6_w7",
+        "filename": "9532003_h6_w7.png",
+        "phrases": [
+            {
+                "text": "Amarillo",
+                "confidence": 0,
+                "latitude": 35.20729,
+                "longitude": -101.8371192,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Clinton",
+                "confidence": 0,
+                "latitude": 41.8502821,
+                "longitude": -90.1877485,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "El Reno",
+                "confidence": 0,
+                "latitude": 35.532198,
+                "longitude": -97.9550578,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Hobart",
+                "confidence": 0,
+                "latitude": -42.8825088,
+                "longitude": 147.3281233,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Hobarte  -> Hobart)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Chickasha",
+                "confidence": 0,
+                "latitude": 35.0512159,
+                "longitude": -97.9370036,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Memphis",
+                "confidence": 0,
+                "latitude": 35.1460249,
+                "longitude": -90.0517638,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Pari",
+                "confidence": 0,
+                "latitude": 48.8534951,
+                "longitude": 2.3483915,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Frederick",
+                "confidence": 0,
+                "latitude": 39.415779,
+                "longitude": -77.4127562,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Duncan",
+                "confidence": 0,
+                "latitude": 34.5023029,
+                "longitude": -97.9578129,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Plainview",
+                "confidence": 0,
+                "latitude": 34.1847936,
+                "longitude": -101.706841,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Rivera",
+                "confidence": 0,
+                "latitude": 45.1147797,
+                "longitude": 7.4137652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (River -> Rivera)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Ardmore",
+                "confidence": 0,
+                "latitude": 34.1729273,
+                "longitude": -97.1309119,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Wichita Falls",
+                "confidence": 0,
+                "latitude": 33.9004572,
+                "longitude": -98.5020777,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Cleveland",
+                "confidence": 0,
+                "latitude": 41.4996574,
+                "longitude": -81.6936772,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Levelland -> Cleveland)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Lubbock",
+                "confidence": 0,
+                "latitude": 33.5855677,
+                "longitude": -101.8470215,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Henrietta",
+                "confidence": 0,
+                "latitude": 33.8166258,
+                "longitude": -98.194682,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Bowie",
+                "confidence": 0,
+                "latitude": 39.0080601,
+                "longitude": -76.7797899,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Bowie? -> Bowie)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Graham",
+                "confidence": 0,
+                "latitude": 33.1020053,
+                "longitude": -98.581341,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Denton",
+                "confidence": 0,
+                "latitude": 33.2150386,
+                "longitude": -97.1330516,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Stamford",
+                "confidence": 0,
+                "latitude": 41.0534302,
+                "longitude": -73.5387341,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Hobbs",
+                "confidence": 0,
+                "latitude": 32.7027017,
+                "longitude": -103.1355302,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "La Mesa",
+                "confidence": 0,
+                "latitude": 32.7678288,
+                "longitude": -117.0230839,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Lamesa -> La Mesa)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Wels",
+                "confidence": 0,
+                "latitude": 48.1565472,
+                "longitude": 14.0243752,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Wells -> Wels)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Bracken Ridge",
+                "confidence": 0,
+                "latitude": -27.317662,
+                "longitude": 153.03393576327434,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Breckenridge -> Bracken Ridge)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Sweetwater",
+                "confidence": 0,
+                "latitude": 32.4709519,
+                "longitude": -100.405938,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Fort Worth",
+                "confidence": 0,
+                "latitude": 32.753177,
+                "longitude": -97.3327459,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (\"FortWorth -> Fort Worth)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Midland",
+                "confidence": 0,
+                "latitude": 31.9973662,
+                "longitude": -102.077948,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Midlandy -> Midland)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Stephenville",
+                "confidence": 0,
+                "latitude": 32.2201387,
+                "longitude": -98.2045388,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Stephenville . -> Stephenville)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Brownwood",
+                "confidence": 0,
+                "latitude": 31.7156858,
+                "longitude": -98.983442,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Temple",
+                "confidence": 0,
+                "latitude": 31.098207,
+                "longitude": -97.3427847,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Buchanan",
+                "confidence": 0,
+                "latitude": 33.8026048,
+                "longitude": -85.1885607,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Taylor",
+                "confidence": 0,
+                "latitude": 42.240872,
+                "longitude": -83.2696509,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Austin",
+                "confidence": 0,
+                "latitude": 30.2711286,
+                "longitude": -97.7436995,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Fredericksburg",
+                "confidence": 0,
+                "latitude": 38.3031837,
+                "longitude": -77.4605399,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Clovis",
+                "confidence": 0,
+                "latitude": 34.405472,
+                "longitude": -103.2050709,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Abilene",
+                "confidence": 0,
+                "latitude": 32.44645,
+                "longitude": -99.7475905,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (YAbilene -> Abilene)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Springs",
+                "confidence": 0,
+                "latitude": 41.0162112,
+                "longitude": -72.1592444,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Odessa",
+                "confidence": 0,
+                "latitude": 31.8457149,
+                "longitude": -102.367687,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Colorado",
+                "confidence": 0,
+                "latitude": 38.7251776,
+                "longitude": -105.607716,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "San",
+                "confidence": 0,
+                "latitude": 11.8444164,
+                "longitude": -3.2748386,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Rivera",
+                "confidence": 0,
+                "latitude": 45.1147797,
+                "longitude": 7.4137652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (River -> Rivera)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Anderson",
+                "confidence": 0,
+                "latitude": 40.1053196,
+                "longitude": -85.6802541,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Sanderson -> Anderson)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9534006_h3_w2",
+        "filename": "9534006_h3_w2.png",
+        "phrases": [
+            {
+                "text": "Gare",
+                "confidence": 0,
+                "latitude": 42.3724798,
+                "longitude": 21.6268015,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Paris",
+                "confidence": 0,
+                "latitude": 48.8534951,
+                "longitude": 2.3483915,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Cham",
+                "confidence": 0,
+                "latitude": 49.2178194,
+                "longitude": 12.6663832,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Champ -> Cham)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Tours",
+                "confidence": 0,
+                "latitude": 47.3900474,
+                "longitude": 0.6889268,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Tour -> Tours)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Fontaine",
+                "confidence": 0,
+                "latitude": 36.0002035,
+                "longitude": -90.8139667,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Versailles",
+                "confidence": 0,
+                "latitude": 38.052576,
+                "longitude": -84.7299464,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Cham",
+                "confidence": 0,
+                "latitude": 49.2178194,
+                "longitude": 12.6663832,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Champ -> Cham)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Paris",
+                "confidence": 0,
+                "latitude": 48.8534951,
+                "longitude": 2.3483915,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Rheine",
+                "confidence": 0,
+                "latitude": 52.2797707,
+                "longitude": 7.4373615,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (REINE -> Rheine)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Paine",
+                "confidence": 0,
+                "latitude": -33.8101102,
+                "longitude": -70.7390236,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Plaine -> Paine)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Damme",
+                "confidence": 0,
+                "latitude": 51.2514978,
+                "longitude": 3.281482,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Dame -> Damme)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Gare",
+                "confidence": 0,
+                "latitude": 42.3724798,
+                "longitude": 21.6268015,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            }
+        ]
+    },
+    {
+        "image_id": "9610001_h2_w3",
+        "filename": "9610001_h2_w3.png",
+        "phrases": [
+            {
+                "text": "Larne",
+                "confidence": 0,
+                "latitude": 54.8508458,
+                "longitude": -5.8183116,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (LanE -> Larne)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Cleveland",
+                "confidence": 0,
+                "latitude": 41.4996574,
+                "longitude": -81.6936772,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Superior",
+                "confidence": 0,
+                "latitude": 46.7207737,
+                "longitude": -92.1040796,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (UPERIOR -> Superior)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9614003_h3_w9",
+        "filename": "9614003_h3_w9.png",
+        "phrases": [
+            {
+                "text": "Estelle",
+                "confidence": 0,
+                "latitude": 29.8457628,
+                "longitude": -90.1067399,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Lestelle -> Estelle)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Cocos",
+                "confidence": 0,
+                "latitude": 18.45693465,
+                "longitude": -66.9129895719989,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Larne",
+                "confidence": 0,
+                "latitude": 54.8508458,
+                "longitude": -5.8183116,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (LANE -> Larne)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Pontiac",
+                "confidence": 0,
+                "latitude": 42.6389216,
+                "longitude": -83.2910468,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Khobar",
+                "confidence": 0,
+                "latitude": 26.3039999,
+                "longitude": 50.1960237,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (HOBAR -> Khobar)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Adam",
+                "confidence": 0,
+                "latitude": 22.3840219,
+                "longitude": 57.5240243,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (ADAMS -> Adam)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Aroa",
+                "confidence": 0,
+                "latitude": 10.4421908,
+                "longitude": -68.8978308,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (AROSA -> Aroa)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Adam",
+                "confidence": 0,
+                "latitude": 22.3840219,
+                "longitude": 57.5240243,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (ADAMS -> Adam)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Madison",
+                "confidence": 0,
+                "latitude": 43.074761,
+                "longitude": -89.3837613,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Adelaide",
+                "confidence": 0,
+                "latitude": -34.9281805,
+                "longitude": 138.5999312,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Ilave",
+                "confidence": 0,
+                "latitude": -16.086789,
+                "longitude": -69.6385874,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (IAVE -> Ilave)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Oria",
+                "confidence": 0,
+                "latitude": 37.4841014,
+                "longitude": -2.2924853,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo ('oria -> Oria)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Ilave",
+                "confidence": 0,
+                "latitude": -16.086789,
+                "longitude": -69.6385874,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (IAVE -> Ilave)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Orange",
+                "confidence": 0,
+                "latitude": 33.7872568,
+                "longitude": -117.850308,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Tarragona",
+                "confidence": 0,
+                "latitude": 41.1172364,
+                "longitude": 1.2546057,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (TaRraGONE -> Tarragona)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "University",
+                "confidence": 0,
+                "latitude": 28.597661,
+                "longitude": -81.2158247,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Ogden",
+                "confidence": 0,
+                "latitude": 41.2230048,
+                "longitude": -111.9738429,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Sterling",
+                "confidence": 0,
+                "latitude": 41.788253,
+                "longitude": -89.6953656,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (TERLING -> Sterling)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Sterling",
+                "confidence": 0,
+                "latitude": 41.788253,
+                "longitude": -89.6953656,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Nava",
+                "confidence": 0,
+                "latitude": 43.3582544,
+                "longitude": -5.5057607,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (NAVAL -> Nava)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9615000_h8_w6",
+        "filename": "9615000_h8_w6.png",
+        "phrases": [
+            {
+                "text": "Hermosa",
+                "confidence": 0,
+                "latitude": 43.839867,
+                "longitude": -103.191374,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Tapachula",
+                "confidence": 0,
+                "latitude": 14.9042905,
+                "longitude": -92.2609265,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Tapachul -> Tapachula)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Ashington",
+                "confidence": 0,
+                "latitude": 55.1832364,
+                "longitude": -1.57027,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (ishington -> Ashington)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Cincinnati",
+                "confidence": 0,
+                "latitude": 39.1014537,
+                "longitude": -84.5124602,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Richmond",
+                "confidence": 0,
+                "latitude": 37.5385087,
+                "longitude": -77.43428,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Raleigh",
+                "confidence": 0,
+                "latitude": 35.7803977,
+                "longitude": -78.6390989,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Raleighe -> Raleigh)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Forest",
+                "confidence": 0,
+                "latitude": 32.3645888,
+                "longitude": -89.4742348,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Knoxville",
+                "confidence": 0,
+                "latitude": 35.9603948,
+                "longitude": -83.9210261,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Charleston",
+                "confidence": 0,
+                "latitude": 32.7884363,
+                "longitude": -79.9399309,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Memphis",
+                "confidence": 0,
+                "latitude": 35.1460249,
+                "longitude": -90.0517638,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Atlanta",
+                "confidence": 0,
+                "latitude": 33.7544657,
+                "longitude": -84.3898151,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Jacksonville",
+                "confidence": 0,
+                "latitude": 30.3321838,
+                "longitude": -81.655651,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Mobile",
+                "confidence": 0,
+                "latitude": 30.6913462,
+                "longitude": -88.0437509,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Orleans",
+                "confidence": 0,
+                "latitude": 43.4471778,
+                "longitude": -95.0924946,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Nassau",
+                "confidence": 0,
+                "latitude": 45.0663534,
+                "longitude": -96.4397751,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Ami",
+                "confidence": 0,
+                "latitude": 36.030794,
+                "longitude": 140.2136028,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "San",
+                "confidence": 0,
+                "latitude": 11.8444164,
+                "longitude": -3.2748386,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Mantilla",
+                "confidence": 0,
+                "latitude": -28.751389,
+                "longitude": -58.6530602,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Antilla -> Mantilla)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Trujillo",
+                "confidence": 0,
+                "latitude": -8.1116778,
+                "longitude": -79.0287742,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (ITrujillo -> Trujillo)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Jamaica",
+                "confidence": 0,
+                "latitude": 18.1850507,
+                "longitude": -77.3947693,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Kingston",
+                "confidence": 0,
+                "latitude": 41.9287812,
+                "longitude": -74.0023825,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Belize",
+                "confidence": 0,
+                "latitude": 17.1204943,
+                "longitude": -88.6859028,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Maracaibo",
+                "confidence": 0,
+                "latitude": 10.6498095,
+                "longitude": -71.6443596,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Barranquilla",
+                "confidence": 0,
+                "latitude": 10.9938599,
+                "longitude": -74.7926118,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Tegucigalpa",
+                "confidence": 0,
+                "latitude": 14.1057433,
+                "longitude": -87.2040052,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Tegucigdlpa -> Tegucigalpa)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Managua",
+                "confidence": 0,
+                "latitude": 12.1544035,
+                "longitude": -86.2737642,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            }
+        ]
+    },
+    {
+        "image_id": "9619000_h5_w6",
+        "filename": "9619000_h5_w6.png",
+        "phrases": [
+            {
+                "text": "Davis",
+                "confidence": 0,
+                "latitude": 38.5435526,
+                "longitude": -121.739005,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            }
+        ]
+    },
+    {
+        "image_id": "9629002_h3_w7",
+        "filename": "9629002_h3_w7.png",
+        "phrases": [
+            {
+                "text": "Forst",
+                "confidence": 0,
+                "latitude": 51.7438586,
+                "longitude": 14.6455395,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (FORt -> Forst)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Reservoir",
+                "confidence": 0,
+                "latitude": -37.7123767,
+                "longitude": 145.0074935,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Reservoi -> Reservoir)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Larne",
+                "confidence": 0,
+                "latitude": 54.8508458,
+                "longitude": -5.8183116,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (LANE -> Larne)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Poole",
+                "confidence": 0,
+                "latitude": 50.7179472,
+                "longitude": -1.981521,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Pool -> Poole)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9643001_h3_w8",
+        "filename": "9643001_h3_w8.png",
+        "phrases": [
+            {
+                "text": "Goma",
+                "confidence": 0,
+                "latitude": -1.6665685,
+                "longitude": 29.225652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Gompa -> Goma)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Pori",
+                "confidence": 0,
+                "latitude": 61.4866126,
+                "longitude": 21.7972071,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Ponri -> Pori)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Goma",
+                "confidence": 0,
+                "latitude": -1.6665685,
+                "longitude": 29.225652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Gompa -> Goma)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Goma",
+                "confidence": 0,
+                "latitude": -1.6665685,
+                "longitude": 29.225652,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Gompa -> Goma)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9685000_h4_w3",
+        "filename": "9685000_h4_w3.png",
+        "phrases": [
+            {
+                "text": "Plattsburgh",
+                "confidence": 0,
+                "latitude": 44.6960855,
+                "longitude": -73.4542915,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (PLATTSBURG -> Plattsburgh)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Lathrop",
+                "confidence": 0,
+                "latitude": 37.8227046,
+                "longitude": -121.27661,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo ('Lathrop -> Lathrop)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Dearborn",
+                "confidence": 0,
+                "latitude": 42.3222599,
+                "longitude": -83.1763145,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Holt",
+                "confidence": 0,
+                "latitude": 48.2919155,
+                "longitude": -96.1925311,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (CITY -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Kearney",
+                "confidence": 0,
+                "latitude": 40.699478,
+                "longitude": -99.081858,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Springs",
+                "confidence": 0,
+                "latitude": 41.0162112,
+                "longitude": -72.1592444,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Nashua",
+                "confidence": 0,
+                "latitude": 42.7656251,
+                "longitude": -71.4677032,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Parkville",
+                "confidence": 0,
+                "latitude": 39.3773292,
+                "longitude": -76.5396875,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Atherton",
+                "confidence": 0,
+                "latitude": 37.453773,
+                "longitude": -122.2058272,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Independence",
+                "confidence": 0,
+                "latitude": 39.0924792,
+                "longitude": -94.4137923,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Topeka",
+                "confidence": 0,
+                "latitude": 39.049011,
+                "longitude": -95.677556,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Valls",
+                "confidence": 0,
+                "latitude": 41.2835355,
+                "longitude": 1.2473637,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Vall -> Valls)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Longview",
+                "confidence": 0,
+                "latitude": 32.5007031,
+                "longitude": -94.74049,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Eger",
+                "confidence": 0,
+                "latitude": 47.8989887,
+                "longitude": 20.3743665,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Edger -> Eger)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Weston",
+                "confidence": 0,
+                "latitude": 26.1003392,
+                "longitude": -80.399513,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Tracy",
+                "confidence": 0,
+                "latitude": 37.7385507,
+                "longitude": -121.420139,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Coity",
+                "confidence": 0,
+                "latitude": 51.5212979,
+                "longitude": -3.5539979,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (City -> Coity)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Springs",
+                "confidence": 0,
+                "latitude": 41.0162112,
+                "longitude": -72.1592444,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            }
+        ]
+    },
+    {
+        "image_id": "9687122_h2_w2",
+        "filename": "9687122_h2_w2.png",
+        "phrases": [
+            {
+                "text": "Hille",
+                "confidence": 0,
+                "latitude": 52.3360492,
+                "longitude": 8.7452571,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Hill -> Hille)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Columbia",
+                "confidence": 0,
+                "latitude": 34.000754,
+                "longitude": -81.0352313,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (COLUMBIAY -> Columbia)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Florin",
+                "confidence": 0,
+                "latitude": 40.1134949,
+                "longitude": -76.5256964,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (FLORI -> Florin)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Massy",
+                "confidence": 0,
+                "latitude": 49.6902106,
+                "longitude": 1.399492,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (MAsS -> Massy)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9731011_h2_w2",
+        "filename": "9731011_h2_w2.png",
+        "phrases": [
+            {
+                "text": "Burke",
+                "confidence": 0,
+                "latitude": 31.2318536,
+                "longitude": -94.7685411,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (WBurke -> Burke)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Kirkby",
+                "confidence": 0,
+                "latitude": 53.4821071,
+                "longitude": -2.8886045,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (KiRBY -> Kirkby)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Bath",
+                "confidence": 0,
+                "latitude": 43.9133661,
+                "longitude": -69.8140298,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Hyde Park",
+                "confidence": 0,
+                "latitude": 41.7944464,
+                "longitude": -87.5939244,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (HYDE PARlk -> Hyde Park)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Mansfield",
+                "confidence": 0,
+                "latitude": 53.1443785,
+                "longitude": -1.1964165,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Mansfiels -> Mansfield)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Chin\u00fa",
+                "confidence": 0,
+                "latitude": 9.1063553,
+                "longitude": -75.3989007,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Chin -> Chin\u00fa)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Springs",
+                "confidence": 0,
+                "latitude": -26.2550033,
+                "longitude": 28.4373147,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Isprings -> Springs)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Waterbury",
+                "confidence": 0,
+                "latitude": 41.5538091,
+                "longitude": -73.0438362,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (waterbuty -> Waterbury)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Northfield",
+                "confidence": 0,
+                "latitude": 44.4582041,
+                "longitude": -93.161159,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Northlield -> Northfield)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Telde",
+                "confidence": 0,
+                "latitude": 27.9984538,
+                "longitude": -15.4166761,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (TELD -> Telde)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Springs",
+                "confidence": 0,
+                "latitude": -26.2550033,
+                "longitude": 28.4373147,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo ({Springs -> Springs)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Ashington",
+                "confidence": 0,
+                "latitude": 55.1832364,
+                "longitude": -1.57027,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Haverhill",
+                "confidence": 0,
+                "latitude": 42.7777829,
+                "longitude": -71.0767724,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Haverhil -> Haverhill)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Biak",
+                "confidence": 0,
+                "latitude": -1.1836086,
+                "longitude": 136.0816321,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Biack -> Biak)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Bradford",
+                "confidence": 0,
+                "latitude": 41.1774952,
+                "longitude": -89.6578789,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Springs ",
+                "confidence": 0,
+                "latitude": 41.0162112,
+                "longitude": -72.1592444,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Alton",
+                "confidence": 0,
+                "latitude": 38.8908583,
+                "longitude": -90.1843091,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Alton",
+                "confidence": 0,
+                "latitude": 38.8908583,
+                "longitude": -90.1843091,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (ralton -> Alton)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Haney",
+                "confidence": 0,
+                "latitude": 43.238677100000004,
+                "longitude": -90.84370978598098,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (hney -> Haney)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    },
+    {
+        "image_id": "9733049_h4_w8",
+        "filename": "9733049_h4_w8.png",
+        "phrases": [
+            {
+                "text": "Hillside",
+                "confidence": 0,
+                "latitude": 41.8778084,
+                "longitude": -87.9028398,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Hille",
+                "confidence": 0,
+                "latitude": 52.3360492,
+                "longitude": 8.7452571,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Hill -> Hille)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Harper",
+                "confidence": 0,
+                "latitude": 41.3624875,
+                "longitude": -92.0510088,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Harpere -> Harper)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Rockledge",
+                "confidence": 0,
+                "latitude": 28.330831,
+                "longitude": -80.7349162,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Rockledges -> Rockledge)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Fox Chase",
+                "confidence": 0,
+                "latitude": 38.0456219,
+                "longitude": -85.6927366,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Asan",
+                "confidence": 0,
+                "latitude": 13.4721533,
+                "longitude": 144.7165731,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Melrose",
+                "confidence": 0,
+                "latitude": 42.4564323,
+                "longitude": -71.064182,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (elrose -> Melrose)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Allen",
+                "confidence": 0,
+                "latitude": 33.1031744,
+                "longitude": -96.6705503,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Cheltenham",
+                "confidence": 0,
+                "latitude": 40.0609445,
+                "longitude": -75.0940625,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Tabora",
+                "confidence": 0,
+                "latitude": -5.0202431,
+                "longitude": 32.8097724,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Tabor -> Tabora)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Eving",
+                "confidence": 0,
+                "latitude": 51.5481277,
+                "longitude": 7.4650456,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Ving -> Eving)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Olney",
+                "confidence": 0,
+                "latitude": 33.3711244,
+                "longitude": -98.7566946,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Queens",
+                "confidence": 0,
+                "latitude": 40.7135078,
+                "longitude": -73.8283132,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Queen -> Queens)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Erie",
+                "confidence": 0,
+                "latitude": 42.1294712,
+                "longitude": -80.0852695,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Prata",
+                "confidence": 0,
+                "latitude": -28.7849383,
+                "longitude": -51.6091999,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (RatA -> Prata)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Frankford",
+                "confidence": 0,
+                "latitude": 38.518038,
+                "longitude": -75.233764,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            }
+        ]
+    },
+    {
+        "image_id": "9734118_h3_w7",
+        "filename": "9734118_h3_w7.png",
+        "phrases": [
+            {
+                "text": "Port Huron",
+                "confidence": 0,
+                "latitude": 42.9760854,
+                "longitude": -82.4333742,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Lansing",
+                "confidence": 0,
+                "latitude": 42.7338254,
+                "longitude": -84.5546295,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Narra",
+                "confidence": 0,
+                "latitude": 9.2685102,
+                "longitude": 118.4035463,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Narrag -> Narra)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Scranton",
+                "confidence": 0,
+                "latitude": 41.4086874,
+                "longitude": -75.6621294,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Scranton' -> Scranton)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Sandusky",
+                "confidence": 0,
+                "latitude": 41.4561002,
+                "longitude": -82.7115813,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Cincinnati",
+                "confidence": 0,
+                "latitude": 39.1014537,
+                "longitude": -84.5124602,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Cincinati -> Cincinnati)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Lexington",
+                "confidence": 0,
+                "latitude": 38.0464066,
+                "longitude": -84.4970393,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Detroit",
+                "confidence": 0,
+                "latitude": 42.3315509,
+                "longitude": -83.0466403,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Detroitk -> Detroit)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Toledo",
+                "confidence": 0,
+                "latitude": 41.6529143,
+                "longitude": -83.5378173,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Philadelphia",
+                "confidence": 0,
+                "latitude": 39.9527237,
+                "longitude": -75.1635262,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Atani",
+                "confidence": 0,
+                "latitude": 6.0149812,
+                "longitude": 6.7471662,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Atan -> Atani)",
+                "geocoder_source": "Geoapify (Corrected)"
+            },
+            {
+                "text": "Parker",
+                "confidence": 0,
+                "latitude": 39.5184514,
+                "longitude": -104.7612638,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Lynchburg",
+                "confidence": 0,
+                "latitude": 37.4137536,
+                "longitude": -79.1422464,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Aue",
+                "confidence": 0,
+                "latitude": 50.586993,
+                "longitude": 12.6992687,
+                "geo_success": true,
+                "cleaning_status": "Exact Match"
+            },
+            {
+                "text": "Knoxville",
+                "confidence": 0,
+                "latitude": 35.9603948,
+                "longitude": -83.9210261,
+                "geo_success": true,
+                "cleaning_status": "Fixed Typo (Knoxvile -> Knoxville)",
+                "geocoder_source": "Geoapify (Corrected)"
+            }
+        ]
+    }
+]
